@@ -23,9 +23,9 @@ repository               : "interfaceconsciousness/interfaceconsciousness.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Interface Consciousness Engineering"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research at the intersection of AI and philosophy"
   location         : "Earth"
   employer         : "ShanghaiTech University"
   uri              : # URL
