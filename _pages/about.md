@@ -40,4 +40,4 @@ Table 1 should be placed here
 * **Phenomenological-conceptual pillar**
 * **Integration and Vision**
 
-[^1 This concept reframes the “hard problem” of consciousness: rather than asking whether AI (or the brain) possesses subjective experience intrinsically, artificial phenomenology examines how specific interface structures enable or shape “what-it-is-likeness” for an agent, grounded in a non-internalist, relational, reality-as-consciousness metaphysics.]
+[^1] This concept reframes the “hard problem” of consciousness: rather than asking whether AI (or the brain) possesses subjective experience intrinsically, artificial phenomenology examines how specific interface structures enable or shape “what-it-is-likeness” for an agent, grounded in a non-internalist, relational, reality-as-consciousness metaphysics.
