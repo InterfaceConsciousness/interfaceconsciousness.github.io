@@ -7,12 +7,7 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
-  <script>
-    if (!sessionStorage.getItem("authenticated") && window.location.pathname.indexOf("login.html") === -1) {
-        window.location.href = "./login.html";
-    }
-  </script>
-</head>
+  </head>
 
     {% include head.html %}
     {% include head/custom.html %}
