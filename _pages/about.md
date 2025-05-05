@@ -34,7 +34,7 @@ We do not think of AI agents as “containers” of consciousness but as _constr
  
 *	**Integrates scholarship in the humanities** within a technology-driven research setting.
 
-Table 1 should be placed here
+The following table summarizes the distinction between subjective experience, consciousness, and interface consciousness.
 
 |                   | **Subjective Experience**                                                                              | **Consciousness**                                                                            | **Interface Consciousness**                                                     |
 |-------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
