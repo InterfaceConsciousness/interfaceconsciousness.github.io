@@ -36,18 +36,12 @@ We do not think of AI agents as “containers” of consciousness but as _constr
 
 Table 1 should be placed here
 
-| 	         | **Subjective Experience** | **Consciousness** |**Interface Consciousness** |
-| -------------- | :---- 	       	| :--- | :---|
-| **Definition** | Cell 2, Row 1 |
-| **Ontology** | Cell 1, Row 2 |
-|**(Functional) Role**|
-|**Analogy**|
-
-	Subjective Experience	Consciousness	Interface Consciousness
-Definition	First-personal, what-it-is-like, qualia	The fundamental, irreducible and relational substrate of reality (RS).	The process of presenting RS to an agent
-Ontology	“inside”, private, individual (the “phenomenon”)	Universal, objective (or better: non-dual), external (Kant’s “noumenon”).	“mediating”, a bridge between fundamental consciousness and our experience.
-(Functional) Role	The contents and flow of lived experience for a specific agent; what the interface delivers to us 	The external source and essence of all existence and mind. Represented as agent-network.	The mechanism/structure that makes subjective experience possible
-Analogy	The images on the screen	The signals behind the screen	The GUI that renders signals into images
+|                   | Subjective Experience                                                                              | Consciousness                                                                            | Interface Consciousness                                                     |   |
+|-------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---|
+| **Definition**        | First-personal, what-it-is-like, qualia                                                            | The fundamental, irreducible and relational substrate of reality (RS).                   | The process of presenting RS to an agent                                    |   |
+| **Ontology**          | “inside”, private, individual (the “phenomenon”)                                                   | Universal, objective (or better: non-dual), external (Kant’s “noumenon”).                | “mediating”, a bridge between fundamental consciousness and our experience. |   |
+| **(Functional) Role** | The contents and flow of lived experience for a specific agent; what the interface delivers to us  | The external source and essence of all existence and mind. Represented as agent-network. | The mechanism/structure that makes subjective experience possible           |   |
+| **Analogy**           | The images on the screen                                                                           | The signals behind the screen                                                            | The GUI that renders signals into images                                    |   |
 
 ## Two pillars, one program
 
