@@ -7,10 +7,9 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
-    <script>
-    // Check if the user is authenticated before redirecting
-    if (!sessionStorage.getItem("authenticated") && window.location.pathname !== "/login.html") {
-        window.location.href = "/login.html";
+  <script>
+    if (!sessionStorage.getItem("authenticated") && window.location.pathname.indexOf("login.html") === -1) {
+        window.location.href = "./login.html";
     }
   </script>
 </head>
