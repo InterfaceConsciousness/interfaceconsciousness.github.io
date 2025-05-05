@@ -17,4 +17,4 @@ We do not think of AI agents as “containers” of consciousness but as constru
 
 ## Core commitments
 
-## Two pillars, one project
+## Two pillars, one program
