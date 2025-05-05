@@ -38,6 +38,10 @@ Table 1 should be placed here
 
 ## Two pillars, one program
 
-* **Technological-constructive pillar**
-* **Phenomenological-conceptual pillar**
-* **Integration and Vision**
+Understanding conscious experience, not as an internal property of information-processing systems, but as content of an interface to the irreducibly relational substrate of reality (RS), demands a research program that rigorously bridges AI research and philosophy. Our approach is structured around two mutually reinforcing pillars:
+### A constructive-technical pillar
+Throughout the project, we advance a reconceptualization of consciousness as fundamentally external and relational—an objective reality that agents access via interfaces, thus creating their subjective experience of it. We operationalize this “interface consciousness” through the design, implementation, and evaluation of AI-agents, mathematical models, and novel benchmarks. Using tools from computer science, along with recent advances in language and network technology, enables us to build and test systems that instantiate, simulate, and extend possible interfaces. These technological efforts provide empirical grounding, generate new theoretical challenges, and open opportunities to explore modalities of experience fundamentally different from our own.
+### A phenomenological-conceptual pillar
+Drawing from phenomenology, mathematical formalisms (including category theory and topology), and the philosophy of mind, we clarify the essential structures of self, embodiment, and the world. This pillar sets the conceptual and formal standards for what constitutes an interface to reality, guarding against reductionism or oversimplification. It is also imperative for the project to speak to a broader audience in the humanities, including AI ethicists and more traditionally focused scholars (e.g., literature theorists or historians of religion), thus contributing to the field of the techno-humanities.
+### Integration and Vision
+The continuous interaction between these pillars forms the core of our program. Philosophical insights inform the design of artificial interfaces, while computational experiments serve as laboratories for testing, refining, and sometimes revising our conceptual frameworks. By connecting these two pillars—conceptual exploration and inventive engineering—we create feedback loops: formal models inform system design, and empirical results inspire new conceptual developments. This dual approach positions our research group at the forefront of philosophical and technical inquiry into consciousness, meaning, and artificial intelligence.
