@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-##Overview
+## Overview
 
 The project aims to develop a theoretically robust, empirically grounded, and computationally implementable _AI framework that operationalizes consciousness via interfaces_ to reality rather than as an emergent property of internal information processing. This approach leverages philosophical reasoning, mathematical phenomenology, category theory, and modern AI techniques to create a series of four interconnected research projects. 
 
@@ -15,6 +15,6 @@ AI-consciousness research is a _technology–driven_ endeavor. Throughout our re
 
 We do not think of AI agents as “containers” of consciousness but as constructors of interfaces for engagement with reality. Subprojects provide concrete, testable implementations, simulations, and formal analyses, all informed by foundational philosophical commitments and designed for _interdisciplinary_ collaboration and impact.
 
-##Core commitments
+## Core commitments
 
-##Two pillars, one project
+## Two pillars, one project
