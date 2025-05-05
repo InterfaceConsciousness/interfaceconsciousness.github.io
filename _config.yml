@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Engineering Interface Consciousness"
+name                     : &name "Interface Consciousness Engineering"
 description              : &description "personal description"
 url                      : https://interfaceconsciousness.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "interfaceconsciousness/interfaceconsciousness.github
 author:
   # Biographic information
   avatar           : "interface.jpeg"
-  name             : "Engineering Interface Consciousness"
+  name             : "Interface Consciousness Engineering"
   pronouns         : # example: "she/her"  
   bio              : "Research at the intersection of AI and philosophy"
   location         : "Earth"
