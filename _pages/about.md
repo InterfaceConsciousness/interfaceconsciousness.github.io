@@ -17,8 +17,15 @@ We do not think of AI agents as “containers” of consciousness but as constru
 
 ## Core commitments
 
+* **Consicousness is fundamental**
+* **Philosophical precursors**
+* **AI consciousness is reframed**
+* **Goal:**
+* **Mathematized phenomenology**
+* **Integrates scholarhsipin the humanities**
+
 ## Two pillars, one program
 
-* One
-* Two
-* Integration
+* **Technological-constructive pillar**
+* **Phenomenological-conceptual pillar**
+* **Integration and Vision**
