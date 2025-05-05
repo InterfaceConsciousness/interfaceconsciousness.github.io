@@ -22,8 +22,8 @@ repository               : "interfaceconsciousness/interfaceconsciousness.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "interface2.jpeg"
-  name             : "Interface Consciousness Engineering"
+  avatar           : "interface.jpeg"
+  name             : "Engineering Interface Consciousness"
   pronouns         : # example: "she/her"  
   bio              : "Research at the intersection of AI and philosophy"
   location         : "Earth"
