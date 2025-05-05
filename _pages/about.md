@@ -28,7 +28,12 @@ We do not think of AI agents as “containers” of consciousness but as _constr
   
 *	**Goal**: develop a computational framework, formal models, and operational tests that clarify, engineer, and extend the ways in which agents—biological or artificial—could interface with RS.
 	
-	*	**Artificial phenomenology** is the study and creation (engineering) of interfaces that generate first-person perspectives in (natural or artificial) systems.[^note] Mathematization is essential for bridging first-person experience and computational system design (especially via tools from topology and category theory).
+*	**Artificial phenomenology** is the study and creation (engineering) of interfaces that generate first-person perspectives in (natural or artificial) systems.[^1] This is more regular text.[^note]
+
+[^1]: This is the footnote itself.
+[^note]: This is another footnote.
+
+Mathematization is essential for bridging first-person experience and computational system design (especially via tools from topology and category theory).
   
 *	**Integrates scholarship in the humanities** within a technology-driven research setting.
 
@@ -40,4 +45,4 @@ Table 1 should be placed here
 * **Phenomenological-conceptual pillar**
 * **Integration and Vision**
 
-[^note] This concept reframes the “hard problem” of consciousness: rather than asking whether AI (or the brain) possesses subjective experience intrinsically, artificial phenomenology examines how specific interface structures enable or shape “what-it-is-likeness” for an agent, grounded in a non-internalist, relational, reality-as-consciousness metaphysics.
+
