@@ -36,7 +36,7 @@ We do not think of AI agents as “containers” of consciousness but as _constr
 
 Table 1 should be placed here
 
-|                   | **Subjective Experience**                                                                              | **Consciousness**                                                                            | **Interface Consciousness**                                                     |   |
+|                   | **Subjective Experience**                                                                              | **Consciousness**                                                                            | **Interface Consciousness**                                                     |
 |-------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **Definition**        | First-personal, what-it-is-like, qualia                                                            | The fundamental, irreducible and relational substrate of reality (RS).                   | The process of presenting RS to an agent                                    |
 | **Ontology**          | “inside”, private, individual (the “phenomenon”)                                                   | Universal, objective (or better: non-dual), external (Kant’s “noumenon”).                | “mediating”, a bridge between fundamental consciousness and our experience. |
