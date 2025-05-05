@@ -37,7 +37,7 @@ We do not think of AI agents as “containers” of consciousness but as _constr
 Table 1 should be placed here
 
 | 	      | **Subjective Experience** | **Consciousness** |**Interface Consciousness** |
-| --- | ---- | --- | ---|
+| :--- | :---- | :--- | :---|
 | **Definition** | Cell 2, Row 1 |
 | **Ontology** | Cell 1, Row 2 |
 |**(Functional) Role**|
