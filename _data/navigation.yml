@@ -9,10 +9,10 @@
 
 main:
 
-  - title: "Art-\\( \Phi \\)$" 
+  - title: "Art-\\(\Phi\\)" 
     url: /phenomenology/
 
-  - title: "Networks"
+  - title: "Networkx"
     url: /networks/
 
   - title: "SLP-tests"
