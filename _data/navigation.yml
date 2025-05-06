@@ -9,10 +9,10 @@
 
 main:
 
-  - title: "Artificial Phenomenology" 
+  - title: "Art-$Phi$" 
     url: /phenomenology/
 
-  - title: "Agent-networks"
+  - title: "Networks"
     url: /networks/
 
   - title: "SLP-tests"
