@@ -12,13 +12,13 @@ main:
   - title: "ArtPhen" 
     url: /phenomenology/
 
-  - title: "Networks"
+  - title: "Project B"
     url: /networks/
 
   - title: "SLP-tests"
     url: /slp/
    
-  - title: "Techno-humanities"
+  - title: "Technohumanities"
     url: /techno/
    
   - title: "Publications"
