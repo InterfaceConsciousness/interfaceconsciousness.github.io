@@ -12,14 +12,14 @@ main:
   - title: "Project A Artificial Phenomenology" 
     url: /phenomenology/
 
-  -title: "Project B"
-   url: /networks/
+  - title: "Project B"
+    url: /networks/
 
-  -title: "SLP-tests"
-   url: /slp/
+  - title: "SLP-tests"
+    url: /slp/
    
-  -title: "D Bridging Projects"
-   url: /brdiging/
+  - title: "D Bridging Projects"
+    url: /brdiging/
    
   - title: "Publications"
     url: /publications/
