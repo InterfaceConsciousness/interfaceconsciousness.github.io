@@ -9,7 +9,7 @@
 
 main:
 
-  - title: "Art-$Phi$" 
+  - title: "Art-\\( \Phi \\)$" 
     url: /phenomenology/
 
   - title: "Networks"
