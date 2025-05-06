@@ -9,17 +9,17 @@
 
 main:
 
- # - title: "Project A Artificial Phenomenology" 
- #   url: /phenomenology/
+  - title: "Artificial Phenomenology" 
+    url: /phenomenology/
 
- # - title: "Project B"
- #   url: /networks/
+  - title: "Agent-networks"
+    url: /networks/
 
- # - title: "SLP-tests"
- #   url: /slp/
+  - title: "SLP-tests"
+    url: /slp/
    
- # - title: "D Bridging Projects"
- #   url: /brdiging/
+  - title: "Techno-humanities"
+    url: /brdiging/
    
   - title: "Publications"
     url: /publications/
@@ -36,8 +36,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Project A"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
