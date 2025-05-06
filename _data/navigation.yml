@@ -12,7 +12,7 @@ main:
   - title: "$$A\phi$$" 
     url: /phenomenology/
 
-  - title: "Networkx"
+  - title: "Networks"
     url: /networks/
 
   - title: "SLP-tests"
