@@ -40,13 +40,20 @@
     padding-right: 0;
   }
 
-  h2, h3, h4, h5, h6 {
+  h2, h3, h4, h5 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+    line-height: 1;
   }
 
   h3, h4 {
     font-size: $type-size-5;
+  }
+
+  h6 {
+    margin-bottom: 0;
+    font-family: $sans-serif-narrow;
+    line-height: 0.75;
   }
 
   p, li {
@@ -79,6 +86,55 @@
 /*
    Author profile and links
    ========================================================================== */
+.author__glossary {
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-top: 15px;
+    line-height: 1;
+    
+    @include breakpoint($large) {
+      display: block;
+      width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+}
+
+.author__glossary1::before {
+    content: "• "; /* Bullet point */
+    color: inherit; /* Dynamic color */
+    font-size: 18px;
+    margin-right: 5px;
+    
+}
+
+.tooltip {
+  display: none; /* Hidden by default */
+  position: absolute;
+  background: #333;
+  color: #fff;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  white-space: normal; /* Allow multi-line text */
+  width: auto; /* Adjust width dynamically */
+  max-width: 250px; /* Prevent excessive width */
+  word-wrap: break-word; /* Ensure long words wrap */
+  margin-top: 2px;
+}
+
+
+.author__glossary1:hover {
+  text-shadow: 0 0 8px orange; /* Orange glow effect */
+}
+
+/* Show tooltip when glossary entry is clicked */
+.author__glossary1:hover + .tooltip {
+  display: block;
+  opacity: 1; /* Make text visible */
+}
+
 
 .author__avatar {
   display: table-cell;
