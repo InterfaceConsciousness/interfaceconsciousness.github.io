@@ -9,38 +9,29 @@
 
 main:
 
-  - title: "ArtPhen" 
-    url: /phenomenology/
+  - title: "Philosophy & Theory"
+    url: /philosophy/
+    
+  - title: "Research Projects" 
+    url: /research/
 
-  - title: "Project B"
-    url: /networks/
-
-  - title: "SLP-tests"
-    url: /slp/
-   
-  - title: "Technohumanities"
-    url: /techno/
-   
   - title: "Publications"
     url: /publications/
+
+  #- title: "Team"
+  #  url: /team/
+   
+  - title: "Get Involved"
+    url: /join/
 
   #- title: "Talks"
   #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  - title: "Blog Posts"
+          
+  - title: "Blog/News"
     url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+        
+  #- title: "Guide"
+  #  url: /markdown/
