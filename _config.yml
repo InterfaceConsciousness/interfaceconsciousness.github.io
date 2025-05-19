@@ -23,9 +23,9 @@ repository               : "interfaceconsciousness/interfaceconsciousness.github
 author:
   # Biographic information
   avatar           : "interface.jpeg"
-  name             : "Interface Consciousness Engineering"
+  name             : "Interface Consciousness Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Research at the intersection of AI and philosophy"
+  bio              : "Research at the Frontiers of AI and Philosophy" #"AI-Driven Exploration of Fundamental Reality"  
   location         : "Earth"
   employer         : "ShanghaiTech University"
   uri              : # URL
@@ -72,8 +72,31 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://youtu.be/Ki-_PTqG8nI?t=0&si=1lsXL_4pK-GZ6VZ4"
   zhihu            : # Username
+
+  # Glossary
+  glossary1: "Interface Consciousness"
+  glossary1_text: "Acccessing the relational substrate (RS) of reality."
+  
+  glossary2: "Relational Substrate (RS)"
+  glossary2_text: "Fundamental, relational ground of an agent's reality."
+  
+  glossary3: "Artificial Phenomenology"
+  glossary3_text: "Engineering interfaces for first-person perspectives."
+
+  glossary4: "SLP-Tests"
+  glossary4_text:	"Benchmarks to evaluate AI consciousness."
+
+  glossary5: "Agent-Networks"
+  glossary5_text:	"Computational models to study emergent interfaces."
+  
+  #glossary6: "Category Theory"
+  #glossary6_text:	"Mathematical framework for modeling transformations and relations."
+  
+  #glossary3: "Subjective Experience"
+  #glassary3_text: "Makes for the hard part of the problem of consciousness: how and why does information processing turn into subjective experience?"
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
