@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <!-- ## Core commitments -->
-* **Consciousness is fundamental** and part of the external world (not “inside” the agent/system).  Instead we conceive of it as fundamental aspect of the relational substrate (RS) of an agent's reality that it interfaces with. We are thus decidedly against conflating consciousness with the idea of a “ghost in the machine.”[^0]
+* **Consciousness is fundamental** and part of the external world (not “inside” the agent/system).  Instead we conceive of it as fundamental aspect of the relational substrate (RS) of an agent's reality that it interfaces with. We are thus decidedly against conflating consciousness with the idea of a “ghost in the machine.”[^4]
 
 *	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces consciousness agents are able to integrate with the world.
 
@@ -39,7 +39,8 @@ The following table summarizes the distinction between subjective experience, RS
 | **Ontology**          | “inside”, private, individual (the “phenomenon”)                                                   | universal, transcendental, non-dual (Kant’s “noumenon”).                | “mediating”, a bridge between RS and our subjective experience. |
 | **(Functional) Role** | The contents and flow of lived experience for a specific agent; what the interface delivers to us  | The condition of possibility; essence of all existence and mind. Represented as agent-network. | The mechanism/structure that makes subjective experience possible           |
 | **Analogy**           | The images on the screen                                                                           | The signals behind the screen                                                            | The GUI that renders signals into images                                    |
-[^0]: On this view, subjective experience is not seen as an emergent property of internal computation but as the result of an interaction. 
+
+[^4]: On this view, subjective experience is not seen as an emergent property of internal computation but as the result of an interaction. 
 
 [^1]: "Substrate" refers neither to a material base nor an object "below" experience, but rather to the non-objectifiable condition that makes experience possible at all. It is the metaphysical support for any possible interface, not a slab of matter underlying percepts.
 
