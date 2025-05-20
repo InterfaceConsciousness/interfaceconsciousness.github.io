@@ -25,7 +25,7 @@ Think of it this way: the brain neither generates reality nor mirrors it passive
 
 <!-- Think of it this way: Your brain does not show reality as it is, but neither is it a generator of reality. It is an image of your interaction with the reality that lies behind the interface. -->
 
-![Agents interfacing with RS](/images/interface4.png)
+![Agents interfacing with RS](/images/interfaces4.png)
 
 ## AI as a probe into fundamental reality
 
