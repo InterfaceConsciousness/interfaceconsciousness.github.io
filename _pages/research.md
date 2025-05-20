@@ -51,7 +51,7 @@ author_profile: true
 
 * _C1. SLP-Tests: Implementation and Validation_
 
-* _C2. Language and Meaning in Language Models_
+* _C2. Subjective Grammar and Meaning in Language Models_
 
 * _C3. Novel Interface Design_  (experimental)
 
