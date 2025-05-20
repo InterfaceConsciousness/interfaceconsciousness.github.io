@@ -7,10 +7,9 @@ author_profile: true
 {% include base_path %}
 
 <!-- ## Core commitments -->
-* **Consciousness is fundamental** and part of the external world (not “inside” the agent/system). It is something that the agent needs to access. We are decidedly against conflating consciousness with the idea of a “ghost in the machine.” On this view, consciousness is not seen as an emergent property of internal computation. 
-<!-- Instead we aim to understand it as fundamental aspect of the relational substrate (RS) that agents interface with. -->
+* **Consciousness is fundamental** and part of the external world (not “inside” the agent/system).  Instead we conceive of it as fundamental aspect of the relational substrate (RS) of reality that agents interfaces with. We are thus decidedly against conflating consciousness with the idea of a “ghost in the machine.” On this view, consciousness is not seen as an emergent property of internal computation but as result of an interaction. 
 
-*	**Interface consciousness** is not "consciousness as such" but refers to the process in which a relational substrate (RS) is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces consciousness agents are able to integrate with the world.
+*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces consciousness agents are able to integrate with the world.
 
 * **Relational substrate (RS)** is the fundamental, irreducible, and relational ground of an agent's reality. The immediate actuality of experience refers to this relational substrate[^1] — not as something "inside" agents, but as the external reality they access. We explicitly reject conflating (interacting) RS with internalist or emergentist notions of consciousness. 
 
