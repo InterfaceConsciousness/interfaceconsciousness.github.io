@@ -7,11 +7,11 @@ author_profile: true
 {% include base_path %}
 
 <!-- ## Core commitments -->
-* **Consciousness is fundamental** and part of the external world (not “inside” the agent/system).  Instead we conceive of it as fundamental aspect of the relational substrate (RS) of an agent's reality that it interfaces with. We are thus decidedly against conflating consciousness with the idea of a “ghost in the machine.”[^4]
+* **Consciousness is fundamental** and part of the external world, not merely “inside” an agent or system. Instead, we conceive it as a fundamental aspect of the relational substrate (RS) with which an agent interfaces. Thus, we reject any conflation of consciousness with the notion of a “ghost in the machine.”[^4]
 
-*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces consciousness agents are able to integrate with the world.
+*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces consciousness agents are able to integrate with the world. We explicitly distance ourselves from purely internalist notions of consciousness. 
 
-* **Relational substrate (RS)** is the fundamental, irreducible, and relational ground of an agent's reality. The immediate actuality of experience refers to this relational substrate[^1] — not as something "inside" agents, but as the external reality they access. We explicitly reject conflating (interacting) RS with internalist or emergentist notions of consciousness. 
+* **Relational substrate (RS)** is the fundamental, irreducible, and relational ground of an agent's reality. The immediate actuality of experience refers to this relational substrate[^1] — not as something "inside" agents, but as the external reality they access. 
 
 <!-- *	**Consciousness (RS)** is the fundamental, external, and relational substrate of an agent's reality. Agents do not "have" consciousness; they structurally couple with RS via interfaces. On this view, consciousness is not an emergent property of internal computation or a "ghost in the machine."  We explicitly reject conflating (access to) RS with internalist or emergentist notions of consciousness. -->
 
