@@ -18,7 +18,7 @@ author_profile: true
     
 *	_A2. Category Theory as Integration Hub_
 
-**Most relevant publications of the group**: Mathematized Phenomenology, Category Theory in Consciousness Science, Interfacing Consciousness, Phenomenological Spaces
+**Most relevant publications of the group**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
 **Why it matters?**  Anchors all empirical and theoretical work in philosophical concepts, enabling translation between phenomenological description, AI architectures, and philosophy. Also provides a unifying language for integration across projects. 
 
@@ -37,7 +37,7 @@ author_profile: true
 
 * *B2. Spacetime from Agent-Networks* 
 
-**Most relevant publications from the group**: Interfacing Consciousness, Fusions of Consciousness, Spacetime as error-correcting code,	Perceptual Networks, Phenomenal Spaces
+**Most relevant publications from the group**: [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
 **Why it matters?**: Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces, preparing to bridge metaphysics and computational implementation. Results feed into the other projects’ analyses and operationalizations.
 
@@ -53,9 +53,9 @@ author_profile: true
 
 * _C2. Subjective Grammar and Meaning in Language Models_
 
-* _C3. Novel Interface Design_  (experimental)
+* _C3. Novel Interface Designs_  (experimental)
 
-**Most relevant publications from the group**: AI Consciousness as Interface Representation, Interfacing Consciousness
+**Most relevant publications from the group**: AI Consciousness as Interface Representation, [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376)
 
 **Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked not for “internal” consciousness, but for the structure of their access to RS. Extends the interface paradigm to semantic and inter-agent domains; offering new experimental artifacts. Iteratively informs projects A and B.
 
@@ -71,6 +71,6 @@ author_profile: true
 * _D2. Humanities case studies_
 * _D3. Interdisciplinary collaborations and outreach_
 
-**Most relevant publications of te group**: FBT-book, AI-philosphers, science of consciousness beyond neuroscience, Daoist unity of science
+**Most relevant publications of te group**: FBT-book, AI-philosphers, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), Daoist unity of science, [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
 **Why it matters?** Provides philosophical clarity and conceptual integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between AI practice, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
