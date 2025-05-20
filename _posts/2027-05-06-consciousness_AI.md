@@ -14,7 +14,7 @@ _Imagine waking up one day to discover that everything you perceive—the warmth
 
 Consciousness remains an unresolved anomaly in the natural sciences. While neurobiological correlates of subjective states—qualia such as pain, chromatic perception, or affective responses—are empirically observable, the _hard problem_ persists: why does neural activity manifest as phenomenological experience rather than proceeding in the dark? This question extends to artificial systems: as machine learning grow eerily human-like, we must interrogate whether their operations entail genuine phenomenal states. **Could machines ever truly experience the world?** Or are these machines just digital puppets, mimicking consciousness without a shred of inner life?
 
-The prevailing view in consciousness research—that subjective experience arises from sufficiently complex information processing in physical systems—faces mounting empirical and conceptual challenges. In a nutshell, the problem is that the theory hasn’t quite worked out. Despite advances in neurocomputational modeling, no framework successfully maps specific neural patterns to specific qualia. We still can’t explain why this neural pattern smells like garlic or that one feels like nostalgia. It feels as if pixie dust were sprinkled on those neurons. 
+The prevailing view in consciousness research—that subjective experience emerges from sufficiently complex information processing in physical systems—faces mounting empirical and conceptual challenges. In a nutshell, the problem is that the theory hasn’t quite worked out. Despite advances in neurocomputational modeling, no framework successfully maps specific neural patterns to specific qualia. We still can’t explain why this neural pattern smells like garlic or that one feels like nostalgia. It feels as if pixie dust were sprinkled on those neurons. 
 
 <!-- [^1] This is a quote from a famous neurophilosopher. We believe can turn against her own theory. -->
 ## A non-emergentist alternative? 
@@ -25,7 +25,7 @@ Think of it this way: the brain neither generates reality nor mirrors it passive
 
 <!-- Think of it this way: Your brain does not show reality as it is, but neither is it a generator of reality. It is an image of your interaction with the reality that lies behind the interface. -->
 
-![Agents interfacing with RS](/images/interface3.png)
+![Agents interfacing with RS](/images/interface4.png)
 
 ## AI as a probe into fundamental reality
 
