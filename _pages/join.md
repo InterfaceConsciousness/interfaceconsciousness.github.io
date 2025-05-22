@@ -17,11 +17,7 @@ We seek passionate, intellectually curious collaborators who are
 * coders interested in open-source tools for consciousness research.
 
 **Available Roles**
-
-`Mathematical Modeler of RS`
-  * developing data-structures for agent-networks
-  * requirements: knowledgable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
-  
+ 
 `AI Engineer for Interface Consciousness`
   * implementing SLP-tests to study LLMs and/or design novel AR/VR interfaces
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
@@ -30,6 +26,10 @@ We seek passionate, intellectually curious collaborators who are
   * (computational) modeling of intentional systems, time-consciousness, and self/world boundaries 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
 
+`Mathematical Modeler of RS`
+  * developing data-structures for agent-networks
+  * requirements: knowledgable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
+    
 `Scholar of the Technohumanities` 
   * relates theoretical concepts ("interface consciousness", "relational substrate (RS)") to a specific case-study from the Humanities (e.g. ethics, sociology of science, literature, or the history of religion)
   * requirements: BA or above in the specific area of the case-study, interest in science and/or digital humanities
