@@ -9,12 +9,9 @@ author_profile: true
 <!-- ## Core commitments -->
 * **Consciousness is fundamental** and exists in the relations around us, not merely inside our heads. We conceive of it as a fundamental aspect of the relational substrate (RS) of reality with which an agent interfaces. Thus, we reject any conflation of consciousness with the notion of a “ghost in the machine.”[^4]
 
-*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces, consciousness agents are able to integrate with the world. We explicitly distance ourselves from purely internalist notions of consciousness. 
+*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, coded, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Via interfaces, agents are able to integrate with the world. We explicitly distance ourselves from purely internalist notions of consciousness. 
 
 * **Relational substrate (RS)** is the fundamental, irreducible, and radically transcendental ground of an agent's reality. The immediate actuality of experience refers to this relational substrate.[^1]
- 
-
-<!-- *	**Consciousness (RS)** is the fundamental, external, and relational substrate of an agent's reality. Agents do not "have" consciousness; they structurally couple with RS via interfaces. On this view, consciousness is not an emergent property of internal computation or a "ghost in the machine."  We explicitly reject conflating (access to) RS with internalist or emergentist notions of consciousness. -->
 
 *	**Subjective experience**, forming the "hard" part of the problem of consciousness, is like a desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, our subjective experience is an evolved or designed “user-friendly” way to interact with RS. 
 
