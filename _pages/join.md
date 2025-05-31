@@ -18,7 +18,7 @@ We seek passionate, intellectually curious collaborators who are
 
 **Available Roles**[^1]
  
-`AI Engineer for Interface Consciousness`
+`AI Engineer of Interface Consciousness`
   * implementing SLP-tests to study LLMs and/or design novel AR/VR interfaces
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
 
