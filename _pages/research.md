@@ -8,7 +8,7 @@ author_profile: true
 
 ## Project A: Artificial Phenomenology from Agent-Networks
 
-**Summary**: Mathematize the constitutional elements and formal properties that underlie interface consciousness. Simulate and mathematically model RS as agent-networks whose collective dynamics can be captured by data structures[^1] that resemble embodiments, spacetime, and selves. Use category theory to bridge our AI implementation with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
+**Summary**: Mathematize the constitutional elements and formal properties that underlie interface consciousness. Mathematically model RS as agent-network whose collective dynamics can be captured by data structures[^1] that resemble embodiments, spacetime, and selves. Use category theory to bridge our AI implementation with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
 
 [^1]: "Data structures" should be understood as formal patterns or organizational schemes that identify an agent perceives and interacts with the network. 
 
