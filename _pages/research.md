@@ -17,9 +17,7 @@ author_profile: true
 **Subprojects**:
 
 *	_A1. Philosophical and Mathematical Synthesis using Category Theory_
-    
 *	_A2. Selves, Embodiment, and World Models_
-
 *   _A3. Spacetime from Agent-Networks_ 
 
 **Most relevant publications of the group**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
@@ -56,9 +54,7 @@ author_profile: true
 **Subprojects**:
 
 * _B1. SLP-Tests: Implementation and Validation_
-
 * _B2. Subjective Grammar and Meaning in Language Models_
-
 * _B3. Novel Interface Designs_  (experimental)
 
 **Most relevant publications from the group**: AI Consciousness as Interface Representation, [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376)
@@ -67,7 +63,7 @@ author_profile: true
 
 ## Project C: Interdisciplinary Bridging Projects
 
-**Summary**:  Connects the computational framework pursued in projects A-C with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
+**Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
 **Type**: Technohumanities (Ethics, Epistemology, Digital Humanities)
 
