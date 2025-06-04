@@ -73,6 +73,6 @@ author_profile: true
 * _C2. Humanities case studies_
 * _C3. Interdisciplinary collaborations and outreach_
 
-**Most relevant publications of te group**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), Daoist unity of science, [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
+**Most relevant publications of the group**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), Daoist unity of science, [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
 **Why it matters?** Provides philosophical clarity and conceptual integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between AI practice, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
