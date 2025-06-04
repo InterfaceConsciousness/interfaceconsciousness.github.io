@@ -8,7 +8,7 @@ author_profile: true
 
 ## Project A: Artificial Phenomenology from Agent-Networks
 
-**Summary**: Mathematize the constitutional elements and formal properties that underlie possible forms of interface consciousness. Simulate and mathematically model RS as agent-networks whose collective dynamics can be captured by data structures[^1] that resemble embodiments, spacetime, and selves. Use category theory to bridge our AI implementation with phenomenological theory, drawing from the program of “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
+**Summary**: Mathematize the constitutional elements and formal properties that underlie interface consciousness. Simulate and mathematically model RS as agent-networks whose collective dynamics can be captured by data structures[^1] that resemble embodiments, spacetime, and selves. Use category theory to bridge our AI implementation with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
 
 [^1]: "Data structures" should be understood as formal patterns or organizational schemes that identify an agent perceives and interacts with the network. 
 
@@ -22,7 +22,7 @@ author_profile: true
 
 **Most relevant publications of the group**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
-**Why it matters?**Anchors our research in philosophical concepts, enabling translation between phenomenological descriptions, AI architectures, and philosophy. Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces.<!--, preparing to bridge metaphysics and computational implementation.-->
+**Why it matters?** Anchors our research in philosophical concepts, enabling translation between phenomenological descriptions, AI architectures, and philosophy. Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces.<!--, preparing to bridge metaphysics and computational implementation.-->
 
 
 <!--
