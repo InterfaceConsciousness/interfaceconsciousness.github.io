@@ -8,7 +8,7 @@ author_profile: true
 
 ## Project A: Artificial Phenomenology
 
-**Summary**: Mathematize the core transcendental constraints and formal properties that underlie possible forms of interface consciousness. Use category theory to bridge our AI implementation with phenomenological theory, drawing from the program of “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
+**Summary**: Mathematize the constitutional elements and formal properties that underlie possible forms of interface consciousness. Use category theory to bridge our AI implementation with phenomenological theory, drawing from the program of “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
 
 **Type**: Conceptual (Phenomenology, Mathematics)
 
