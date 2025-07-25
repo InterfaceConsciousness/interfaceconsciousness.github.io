@@ -17,9 +17,7 @@ We do not think of (AI) agents as “containers” of consciousness but as _cons
 
 ## Two pillars, one program
 
-Understanding subjective experience
-<!--, not as an internal property of information-processing systems, but -->
-as an interface to RS demands a research program that rigorously bridges AI research and philosophy.  Our approach is therefore structured around two mutually reinforcing pillars:
+Understanding subjective experience <!--, not as an internal property of information-processing systems, but --> as an interface to RS demands a research program that rigorously bridges AI research and philosophy.  Our approach is therefore structured around two mutually reinforcing pillars:
 
 ### A computational-constructive pillar
 Throughout the project, we advance a reconceptualization of consciousness as fundamentally relational — a reality that agents access via interfaces, thus interacting with it. We approach this “interface consciousness” through the **design, implementation, and evaluation** of AI-agents, mathematical models, and novel benchmarks. Using tools from computer science, along with recent advances in language and network technology, enables us to build and test systems that instantiate, simulate, and extend possible interfaces. These technological efforts provide empirical grounding, generate new theoretical challenges, and open up opportunities to explore modalities of experience that are fundamentally different from our own.
