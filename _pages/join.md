@@ -22,6 +22,10 @@ We seek passionate, intellectually curious collaborators who are
   * implementing SLP-tests to study LLMs and/or design novel AR/VR interfaces
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
 
+`Research Scientist'
+ * applying the interface idea to empirical (physical) sciences
+ * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work and able to design new empirical protocols. 
+   
 `Computational Phenomenologist`
   * (computational) modeling of intentional systems, time-consciousness, and self/world boundaries 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
