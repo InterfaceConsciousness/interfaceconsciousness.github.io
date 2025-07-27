@@ -30,7 +30,6 @@ author_profile: true
 
 **Summary**: Simulate and mathematically model RS as agent-networks whose collective dynamics can be captured by data structures[^1] that resemble embodiments, spacetime, and selves. This informs the design of interfaces by which (artificial and natural) systems could interact with RS. 
 
-[^1]: "Data structures" should be understood as formal patterns or organizational schemes that identify an agent perceives and interacts with the network. 
 
 **Type**: Theory (Simulation, Network Theory)
 
@@ -59,7 +58,7 @@ author_profile: true
 
 **Most relevant publications from the group**: AI Consciousness as Interface Representation, [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376)
 
-**Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked not for “internal” consciousness, but for the structure of their access to RS. Extends the interface paradigm to semantic and inter-agent domains; offering new experimental artifacts. Iteratively informs projects A and B.
+**Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for the structure of their access to RS. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs projects A and B.
 
 ## Project C: Interdisciplinary Bridging Projects
 
@@ -75,4 +74,4 @@ author_profile: true
 
 **Most relevant publications of the group**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), Daoist unity of science, [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
-**Why it matters?** Provides philosophical clarity and conceptual integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between AI practice, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
+**Why it matters?** Provides philosophical clarity and conceptual integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between technology, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
