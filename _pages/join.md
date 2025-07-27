@@ -12,7 +12,7 @@ redirect_from:
 <p> </p>
 We seek passionate, intellectually curious collaborators who are 
 
-* graduate/undergraduate students in computer science, philosophy, cognitive science, or mathematics
+* graduate/undergraduate students with project-relevant expertise
 * independent scholars with interdisciplinary research interests
 * coders interested in open-source tools for consciousness research
 
@@ -21,18 +21,18 @@ We seek passionate, intellectually curious collaborators who are
 `AI Engineer of Interface Consciousness`
   * implementing SLP-tests to study LLMs and/or design novel AR/VR interfaces
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
-
-`Research Scientist`
- * applying the interface idea to empirical (physical) sciences
- * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work and able to design new empirical protocols. 
    
 `Computational Phenomenologist`
   * (computational) modeling of intentional systems, time-consciousness, and self/world boundaries 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
 
+`Research Scientist`
+ * applying the interface idea to empirical (physical) sciences
+ * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work and able to design new empirical protocols.
+ * 
 `Mathematical Modeler of RS`
-  * developing data-structures for agent-networks
-  * requirements: knowledgable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
+  * developing ontologies for agent-networks
+  * requirements: knowledgeable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
     
 `Scholar of the Technohumanities` 
   * relates theoretical concepts ("interface consciousness", "relational substrate (RS)") to a specific case-study from the Humanities (e.g. ethics, sociology of science, literature, or the history of religion)
