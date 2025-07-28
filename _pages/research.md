@@ -64,7 +64,7 @@ author_profile: true
 
 **Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
-**Type**: Technohumanities (Ethics, Epistemology, Digital Humanities)
+**Type**: Technohumanities (Ethics, Epistemology, Art, Digital Humanities)
 
 **Subprojects**:
 
