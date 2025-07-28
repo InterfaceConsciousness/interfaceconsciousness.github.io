@@ -38,7 +38,7 @@ The following table summarizes the distinction between subjective experience, RS
 | **(Functional) Role** | The contents and flow of lived experience for a specific agent; what the interface delivers to us  | The condition of possibility; essence of all existence and mind. Represented as agent-network. | The mechanism/structure that makes subjective experience possible           |
 | **Analogy**           | The images on the screen                                                                           | The signals behind the screen                                                            | The GUI that renders signals into images                                    |
 
-[^4]: On this view, subjective experience is not seen as an emergent property of internal computation but as the result of an interaction. 
+[^4]: On this view, subjective experience is not merely an emergent property of mechanistic systems but a result of an interaction (possibly mediated by AI). The ghost does not live in the machine; the machine lives in the ghost. 
 
 [^1]: "Substrate" refers neither to a material base nor an object "below" experience, but rather to the non-objectifiable condition that makes experience possible at all. It is the metaphysical support for any possible interface, not a slab of matter underlying percepts.
 
