@@ -25,11 +25,7 @@ We seek passionate, intellectually curious collaborators who are
 `Computational Phenomenologist`
   * (computational) modeling of intentional systems, time-consciousness, and self/world boundaries 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
-
-`Research Scientist`
- * applying the interface idea to empirical (physical) sciences
- * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work and able to design new empirical protocols.
- * 
+   
 `Mathematical Modeler of RS`
   * developing ontologies for agent-networks
   * requirements: knowledgeable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
@@ -38,6 +34,10 @@ We seek passionate, intellectually curious collaborators who are
   * relates theoretical concepts ("interface consciousness", "relational substrate (RS)") to a specific case-study from the Humanities (e.g. ethics, sociology of science, literature, or the history of religion)
   * requirements: BA or above in the specific area of the case-study, interest in science and/or digital humanities
 
+`Physical Research Scientist`
+ * applying the interface idea to empirical (physical) sciences
+ * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work and able to design new empirical protocols.
+   
 `Outreach Specialist` (Volunteer/Project-Based)
   * helps build our community and disseminates research
   * manages social media/blog content 
