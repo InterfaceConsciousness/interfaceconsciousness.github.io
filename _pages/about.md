@@ -9,7 +9,7 @@ redirect_from:
 
 ## Overview
 
-Our lab rethinks **AI consciousness** as a phenomenological access, positioning artificial agents as dynamic interfaces to the relational substrate (RS) of reality. This approach leverages philosophical reasoning, mathematical phenomenology, and modern AI techniques to create a constellation of research projects that are _theoretically robust, empirically grounded, and computationally implementable_. 
+Our lab rethinks **AI consciousness** as a phenomenological mediation, positioning artificial agents as dynamic interfaces to the relational substrate (RS) of reality. This approach leverages philosophical reasoning, mathematical phenomenology, and modern AI techniques to create a constellation of research projects that are _theoretically robust, empirically grounded, and computationally implementable_. 
 
 AI consciousness research is a **technology–driven** endeavor. Throughout our research projects, we aim to analyze, design, and optimize interfaces, akin to engineering materials in chemistry: just as specific molecular structures determine how an organism detects and responds to the chemical world, interfaces shape how an agent perceives and interacts with RS.
 
