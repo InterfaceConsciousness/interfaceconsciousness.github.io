@@ -11,7 +11,7 @@ author_profile: true
 
 *	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, integrated, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Through interfaces, agents can integrate with the world. We explicitly distance ourselves from purely internalist notions of consciousness. 
 
-* **Relational substrate (RS)** is the fundamental, irreducible, and radically transcendental ground of an agent's reality. The immediate actuality of experience refers to this relational substrate.[^1]
+* **Relational substrate (RS)** is the fundamental, irreducible, relational, and radically transcendental ground of an agent's reality. The immediate actuality of experience refers to this relational substrate.[^1]
 
 *	**Subjective experience**, forming the "hard" part of the problem of consciousness, is like the desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, our subjective experience is an evolved or designed “user-friendly” way to interact with RS. 
 
