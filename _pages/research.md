@@ -8,7 +8,7 @@ author_profile: true
 
 ## Project A: Artificial Phenomenology from Agent-Networks
 
-**Summary**: Mathematically model RS as agent-network whose collective dynamics can be captured with ontologies[^1] that resemble embodiments, spacetime, and selves. Implement the model in AI and use category theory to bridge it with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
+**Summary**: Mathematically models RS as agent-network whose collective dynamics can be captured with ontologies[^1] that resemble embodiments, spacetime, and selves. Implements the model in AI and use category theory to bridge it with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the network. 
 
@@ -46,7 +46,7 @@ author_profile: true
 
 ## Project B: SLP-Tests and Expanding the Interface
 
-**Summary**: Transform questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural), designed to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces.
+**Summary**: Transforms questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
 
 **Type**: Empirical (Engineering, Benchmarking)
 
