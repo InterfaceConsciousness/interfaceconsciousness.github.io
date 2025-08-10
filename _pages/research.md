@@ -60,11 +60,11 @@ author_profile: true
 
 **Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for the structure of their access to RS. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs projects A and B.
 
-## Project C: Interdisciplinary Bridging Projects
+## Project C: Technohumanities
 
 **Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
-**Type**: Technohumanities (Ethics, Epistemology, Art, Digital Humanities)
+**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, Digital Humanities)
 
 **Subprojects**:
 
