@@ -33,13 +33,13 @@ We seek passionate, intellectually curious collaborators who are
 
     
 `Scholar of the Technohumanities` 
-  * relate theoretical concepts ("interface consciousness", "relational substrate (RS)") to a specific case-study from the Humanities (e.g. ethics, sociology of science, literature, or the history of religion)
-  * requirements: BA or above in the specific area of the case-study, interest in science and/or digital humanities
+  * relate theoretical concepts ("interface consciousness", "relational substrate (RS)") to specific case studies from the Humanities (e.g., ethics, sociology of science, literature, or the history of religion)
+  * requirements: BA or above in the specific area of the case study, interest in science and/or digital humanities
 
 <!--
 `Physical Research Scientist`
  * applying the interface idea to empirical (physical) sciences
- * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work and able to design new empirical protocols.
+ * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work, and able to design new empirical protocols.
 -->
 
    
