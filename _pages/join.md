@@ -1,6 +1,6 @@
 ---
 permalink: /get involved/
-title: Build AI that doesn’t just solve problems
+title: Build technology that doesn’t just solve problems
        —but redefines reality 
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ We seek passionate, intellectually curious collaborators who are
 
 **Available Roles**[^1]
  
-`AI Engineer of Interface Consciousness`
+`Engineer of Interface Consciousness`
   * design SLP-tests to study LLMs and/or design novel AR/VR interfaces
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
 
