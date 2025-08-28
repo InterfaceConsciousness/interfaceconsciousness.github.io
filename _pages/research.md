@@ -16,7 +16,7 @@ author_profile: true
 
 **Subprojects**:
 
-*	_A1. Philosophical and Mathematical Synthesis using Category Theory_
+*	_A1. Philosophical and Mathematical Synthesis_
 *	_A2. Selves, Embodiment, and World Models_
 *   _A3. Spacetime from Agent-Networks_ 
 
