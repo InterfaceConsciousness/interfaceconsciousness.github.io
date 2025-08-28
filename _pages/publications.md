@@ -30,6 +30,9 @@ author_profile: true
 * **R. Prentner**, [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
 
 ## Published
+
+* **R. Prentner (2025). [Artificial Consciousness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), *Lecture Notes in AI 16058 (Proceedings of AGI-25)*, Cham: Springer, pp. 135-146.
+
 * **R. Prentner** (2025). Daoist Unity of Science, the Bifurcation of Nature, and Technology, in press.
 
 * **R. Prentner** (2025). [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*.
