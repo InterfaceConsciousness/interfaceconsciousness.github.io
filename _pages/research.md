@@ -8,7 +8,7 @@ author_profile: true
 
 ## Project A: Artificial Phenomenology from Agent-Networks
 
-**Summary**: Mathematically models RS as agent-network whose collective dynamics can be captured with ontologies[^1] that resemble embodiments, spacetime, and selves. Implements the model in AI and use category theory to bridge it with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
+**Summary**: Mathematically models RS with agent-networks whose collective dynamics can be captured with ontologies[^1] that resemble embodiments, spacetime, and selves. Implements the model in AI and use category theory to bridge it with phenomenological theory, drawing from “mathematized phenomenology,” incorporating Husserlian/Heideggerian themes.
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the network. 
 
