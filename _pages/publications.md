@@ -31,7 +31,7 @@ author_profile: true
 
 ## Published
 
-* **R. Prentner (2025). [Artificial Consciousness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), *Lecture Notes in AI 16058 (Proceedings of AGI-25)*, Cham: Springer, pp. 135-146.
+* **R. Prentner** (2025). [Artificial Consciousness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), *Lecture Notes in AI 16058 (Proceedings of AGI-25)*, Cham: Springer, pp. 135-146.
 
 * **R. Prentner** (2025). Daoist Unity of Science, the Bifurcation of Nature, and Technology, in press.
 
