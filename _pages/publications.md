@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 <!-- \* denotes equal contribution. -->
+
+*Our research begins features deep theoretical work and thrives through collaborative extension. We actively seek partners to test these ideas in new domains.*
 
 ## Preprints 
 
