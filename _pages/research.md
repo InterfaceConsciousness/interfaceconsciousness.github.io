@@ -13,6 +13,12 @@ author_profile: true
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the network. 
 
+<div style="float: right; margin: -1em 0.25em 1em 1em; width: 300px; text-align: center;">
+  <img src="../images/env_graph.png"
+       alt="Agent-Network"
+       style="width: 100%; clip-path: inset(10px 0px 0px 0px);">
+</div>
+
 **Type**: Theoretical (Phenomenology, Mathematics)
 
 **Subprojects**:
@@ -49,9 +55,11 @@ author_profile: true
 
 **Summary**: Transforms questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
 
-<p style="float: left; margin: 0 0 0em 1em; width: 250px;">
-  <img src="../images/projectB.jpeg" alt="SLP-tests and expanding the Interface" style="width: 100%;">
-</p>
+<div style="float: left; margin: -0.5em 2.5em 1em 0.5em; width: 250px; text-align: center;">
+  <img src="../images/projectB.png"
+       alt="SLP-Tests and Expanding the Interface"
+       style="width: 100%;">
+</div>
 
 **Type**: Empirical (Engineering, Benchmarking)
 
@@ -61,6 +69,7 @@ author_profile: true
 * _B2. Subjective Grammar and Meaning in Language Models_
 * _B3. Novel Interface Designs_  (experimental)
 
+<br>
 **Most relevant publications from the group**: [Artificial Consciouisness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z)
 
 **Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for the structure of their access to RS. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs projects A and B.
@@ -69,9 +78,14 @@ author_profile: true
 
 **Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
-<p style="float: right; margin: 0 0 1em 1em; width: 300px;">
-  <img src="../images/metaphysics_of_machines_smaller.jpg" alt="Metaphysics of the Machines by [P. Nikolić](http://www.predragnikolic.com/)" style="width: 100%;">
-</p>
+<div style="float: right; margin: 0.5em 0.25em 1em 1em; width: 300px; text-align: center;">
+  <img src="../images/metaphysics_of_machines_smaller.jpg"
+       alt="Metaphysics of the Machines"
+       style="width: 100%; clip-path: inset(0px 0px 4px 0px);">
+  <p style="font-size: 0.66em; margin-top: 0.1em;">
+    Art installation by <a href="http://www.predragnikolic.com/" target="_blank">P. Nikolić</a>
+  </p>
+</div>
 
 **Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, Digital Humanities)
 
