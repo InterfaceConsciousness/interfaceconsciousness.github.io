@@ -65,11 +65,11 @@ author_profile: true
 
 **Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
-<p style="float: right; margin: 0 0 1em 1em; width: 220px;">
-  <img src="../images/metaphysics_of_machines.jpeg" alt="Description" style="width: 100%;">
+<p style="float: right; margin: 0 0 1em 1em; width: 225px;">
+  <img src="../images/metaphysics_of_machines.jpeg" alt="Metaphysics of the Machines by [P. Nikolić](http://www.predragnikolic.com/)" style="width: 100%;">
 </p>
 
-**Type**: Interdisciplinary Bridging (Ethics, Epistemology, Art, Digital Humanities)
+**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, Digital Humanities)
 
 **Subprojects**:
 
