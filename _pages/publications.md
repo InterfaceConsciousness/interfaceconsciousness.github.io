@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- \* denotes equal contribution. -->
 
-*Our research features deep theoretical work and thrives through collaboration. We actively seek partners to test ideas in new domains.*
+*Our research features foundational theoretical work and thrives through collaborations and applications. We actively seek partners to test ideas in new domains.*
 
 ## Foundational works
 * R. Prentner. [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*, 2025.
