@@ -41,7 +41,7 @@ author_profile: true
 
 * /w C. Fields. [Using AI methods to evaluate a model for perception](https://doi.org/10.1515/opphil-2019-0034), *Open Philosophy*, 2: 503–524, 2019.
 
-## Miscellanous
+## Miscellaneous
 * [Artificial Consciousness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), *Lecture Notes in AI 16058 (Proceedings of AGI-25)*, 2025, Cham: Springer, pp. 135-146.
 
 * /w C. M. Signorelli & I. Cea. [We need to explain subjective experience, but its explanation may not be mechanistic](https://doi.org/10.31234/osf.io/e6kdg_v3), *Neuroscience of Consciousness*, accepted.
