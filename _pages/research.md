@@ -69,7 +69,7 @@ author_profile: true
   <img src="../images/metaphysics_of_machines.jpeg" alt="Description" style="width: 100%;">
 </p>
 
-**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, Digital Humanities)
+**Type**: Interdisciplinary Bridging (Ethics, Epistemology, Art, Digital Humanities)
 
 **Subprojects**:
 
