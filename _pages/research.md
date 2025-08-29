@@ -49,7 +49,7 @@ author_profile: true
 
 **Summary**: Transforms questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
 
-<p style="float: left; margin: 0 0 0em 0em; width: 225px;">
+<p style="float: left; margin: 0 0 0em 1em; width: 250px;">
   <img src="../images/projectB.jpeg" alt="SLP-tests and expanding the Interface" style="width: 100%;">
 </p>
 
@@ -69,7 +69,7 @@ author_profile: true
 
 **Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
-<p style="float: right; margin: 0 0 1em 1em; width: 225px;">
+<p style="float: right; margin: 0 0 1em 1em; width: 300px;">
   <img src="../images/metaphysics_of_machines_smaller.jpg" alt="Metaphysics of the Machines by [P. Nikolić](http://www.predragnikolic.com/)" style="width: 100%;">
 </p>
 
