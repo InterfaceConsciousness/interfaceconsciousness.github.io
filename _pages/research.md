@@ -19,7 +19,7 @@ author_profile: true
 
 *	_A1. Philosophical and Mathematical Synthesis_
 *	_A2. Selves, Embodiment, and World Models_
-*   _A3. Spacetime from Agent-Networks_ 
+* _A3. Spacetime from Agent-Networks_ 
 
 **Most relevant publications of the group**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
@@ -49,8 +49,8 @@ author_profile: true
 
 **Summary**: Transforms questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
 
-<p style="float: left; margin: 0 0 1em 1em; width: 225px;">
-  <img src="../images/projectB.png" alt="SLP-tests and expanding the Interface" style="width: 100%;">
+<p style="float: left; margin: 0 0 0em 0em; width: 225px;">
+  <img src="../images/projectB.jpeg" alt="SLP-tests and expanding the Interface" style="width: 100%;">
 </p>
 
 **Type**: Empirical (Engineering, Benchmarking)
@@ -70,7 +70,7 @@ author_profile: true
 **Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
 
 <p style="float: right; margin: 0 0 1em 1em; width: 225px;">
-  <img src="../images/metaphysics_of_machines_small.jpeg" alt="Metaphysics of the Machines by [P. Nikolić](http://www.predragnikolic.com/)" style="width: 100%;">
+  <img src="../images/metaphysics_of_machines_smaller.jpeg" alt="Metaphysics of the Machines by [P. Nikolić](http://www.predragnikolic.com/)" style="width: 100%;">
 </p>
 
 **Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, Digital Humanities)
