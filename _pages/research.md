@@ -49,6 +49,10 @@ author_profile: true
 
 **Summary**: Transforms questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
 
+<p style="float: left; margin: 0 0 1em 1em; width: 225px;">
+  <img src="../images/projectB.png" alt="SLP-tests and expanding the Interface" style="width: 100%;">
+</p>
+
 **Type**: Empirical (Engineering, Benchmarking)
 
 **Subprojects**:
