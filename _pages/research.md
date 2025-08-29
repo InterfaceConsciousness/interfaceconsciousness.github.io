@@ -83,7 +83,7 @@ author_profile: true
        alt="Metaphysics of the Machines"
        style="width: 100%; clip-path: inset(0px 0px 4px 0px);">
   <p style="font-size: 0.66em; margin-top: 0.1em;">
-    Art installation by <a href="http://www.predragnikolic.com/" target="_blank">P. Nikolić</a>
+    Metaphysics of the Machines by <a href="http://www.predragnikolic.com/" target="_blank">P. Nikolić</a>
   </p>
 </div>
 
