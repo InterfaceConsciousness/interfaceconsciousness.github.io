@@ -9,7 +9,7 @@ author_profile: true
 ## Project A: Artificial Phenomenology from Agent-Networks
 
 
-**Summary**: Models the relational substrate (RS) as a network of interacting agents, formalizing their collective dynamics through ontologies[^1] that encode structures of embodiment, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian and Heideggerian themes.
+**Summary**: Models the relational substrate (RS) as a network of interacting agents, formalizing their collective dynamics through ontologies[^1] that encode structures of embodiment, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian/Heideggerian themes.
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the network. 
 
