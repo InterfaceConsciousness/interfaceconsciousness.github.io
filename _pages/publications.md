@@ -19,6 +19,14 @@ author_profile: true
 
 *Our research begins features deep theoretical work and thrives through collaborative extension. We actively seek partners to test these ideas in new domains.*
 
+## Foundational works
+
+* R. Prentner (2025). [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*.
+* R. Prentner and Donald D. Hoffman (2024). [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), *Frontiers in Psychology*, 15, 1429376.
+* R. Prentner (2019). [Consciousness and Topologically Structured Phenomenal Spaces](https://doi.org/10.31234/osf.io/at53n), *Consciousness and Cognition*, 70: 25-38, 2019. 
+
+
+
 ## Preprints 
 
 * C.M. Signorelli, **R. Prentner**, I. Cea, and L. Melloni, [The science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), v1 Feb 25, 2025.
@@ -37,13 +45,13 @@ author_profile: true
 
 * **R. Prentner** (2025). Daoist Unity of Science, the Bifurcation of Nature, and Technology, in press.
 
-* **R. Prentner** (2025). [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*.
+
 
 * **R. Prentner**, and S. Dobson (2024). [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), *Women in MathArt – Research, Creativity, and Teaching*, Cham: Springer, pp. 81-92.
 
 * **R. Prentner** (2024). [Category theory in consciousness science: going beyond the correlational project](https://doi.org/10.1007/s11229-024-04718-5), *Synthese*, 204, 69.
 
-* **R. Prentner** and Donald D. Hoffman (2024). [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), *Frontiers in Psychology*, 15, 1429376.
+* 
 
 * D.D. Hoffman, C. Prakash, and **R. Prentner** (2023). [Fusions of Consciousness](https://doi.org/10.3390/e25010129), *Entropy*, 25(1), 129.
 
@@ -61,7 +69,7 @@ author_profile: true
 
 * **R. Prentner**, and C. Fields (2019). [Using AI methods to evaluate a model for perception](https://doi.org/10.1515/opphil-2019-0034), *Open Philosophy*, 2: 503–524, 2019.  
 
-* **R. Prentner** (2019). [Consciousness and Topologically Structured Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002), *Consciousness and Cognition*, 70: 25-38, 2019. [Download Postprint](10.31234/osf.io/at53n)
+
 
 * **R. Prentner** (2018). [The natural philosophy of experiencing](https://doi.org/10.3390/philosophies3040035), *Philosophies*, 3(4): 35, 2018.  (reprinted in G. Dodig-Crnkovic and M. J. Schroeder (eds.), Contemporary Natural Philosophies – Part 1, Basel: MDPI, pp. 324-337, 2019)
 
