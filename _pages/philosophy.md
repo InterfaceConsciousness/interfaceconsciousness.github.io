@@ -18,7 +18,7 @@ author_profile: true
 <!-- *	**AI consciousness is reframed**, not as a question of interiority or emergence, but as an exploration of interfaces to an agent’s reality. AI consciousness becomes “artificial interface consciousness.”
 -->
 
-*	**Precursors in the philosophical literature** include Leibniz (“monads" as "living mirrors" of the universe), Husserl ("eidos", "intentionality"), and Whitehead (“processes,” “prehension”). Consciousness is not “contained” in selves, but selves arise from consciousness.
+*	**Precursors in the philosophical literature** include Leibniz (“monads" as "living mirrors" of the universe), Kant ("noumenon", "aesthetic judgment"), Schopenhauer (space-time and causality as "_a priori_ forms of representation"), Husserl ("eidos", "intentionality"), and Whitehead (“processes”, “prehension”). Consciousness is not “contained” in selves, but selves arise from consciousness.
 
 * **The interface theory of perception (ITP)** proposes that perceptual systems evolved to prioritize survival-enhancing representations of reality, not to reveal objective (agent-independent) truths. ITP synthesizes computational models of perception with evolutionary biological principles.[^2] Building on this foundation, we aim to adapt ITP's core premise to develop synthetic agents that might similarly construct adaptive interfaces to RS.
 
