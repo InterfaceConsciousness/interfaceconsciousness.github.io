@@ -22,7 +22,7 @@ author_profile: true
 
 * **The interface theory of perception (ITP)** proposes that perceptual systems evolved to prioritize survival-enhancing representations of reality, not to reveal objective (agent-independent) truths. ITP synthesizes computational models of perception with evolutionary biological principles.[^2] Building on this foundation, we aim to adapt ITP's core premise to develop synthetic agents that might similarly construct adaptive interfaces to RS.
 
-* **Transcendental cosmology**: To fully understand how interface consciousness arises from interaction with RS, we need to explore the _conditions of possibility_ of subjective experience and the spatio-temporal-causal structuring of the phenomenal world. This opens a “cosmological” approach that moves beyond the confines of human-like subjectivity toward a more general account of how relational structures give rise to experiential forms.
+* **Transcendental cosmology**: To fully understand how interface consciousness arises from interaction with RS, we need to explore the _conditions of possibility_ of subjective experience and the spatio-temporal-causal structuring of the phenomenal world. This opens a “cosmological” approach that moves beyond the confines of human-like subjectivity toward a more general account of how relational structures give rise to experiential forms, also informing scientific modes of knowledge.
 
 *	**Artificial phenomenology** is the study and creation (engineering) of interfaces that encode first-person perspectives in (natural or artificial) systems.[^3] Mathematization is essential for bridging first-person experience and computational system design (for example, using tools from topology and category theory). 
 
