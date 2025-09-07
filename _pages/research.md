@@ -76,7 +76,8 @@ author_profile: true
 
 ## Project C: Computational Humanities
 
-**Summary**:  Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. 
+<!--Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. -->
+**Summary**:   Applies artificial phenomenology to model how interfaces mediate interpretation of cultural artifacts (texts, images, rituals). Develops digital tools to simulate historical subjectivities using SLP-test frameworks.
 
 <div style="float: right; margin: 0.5em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/metaphysics_of_machines_smaller.jpg"
