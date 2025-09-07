@@ -29,10 +29,8 @@ We seek passionate, intellectually curious collaborators who are
 `Computational Phenomenologist`
   * implement intentionality, time-consciousness, and self/world boundaries 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
-   
-
-    
-`Scholar of the Technohumanities` 
+      
+`Scholar of the Digital Humanities` 
   * relate theoretical concepts ("interface consciousness", "relational substrate (RS)") to specific case studies from the Humanities (e.g., ethics, sociology of science, literature, or the history of religion)
   * requirements: BA or above in the specific area of the case study, interest in science and/or digital humanities
 
