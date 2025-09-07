@@ -9,8 +9,8 @@ author_profile: true
 <!-- ## Core commitments -->
 * **Consciousness exists in the relations around us**, not merely inside our heads. We conceive of it as a fundamental aspect of reality -- its relational substrate (RS) with which an agent interfaces. We reject any conflation of consciousness with the notion of a “ghost in the machine.”[^4]
 
-*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, integrated, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Through interfaces, agents can integrate with the world. <!-- We explicitly distance ourselves from purely internalist notions of consciousness. -->
-
+*	**Interface consciousness** is not "consciousness as such" but refers to the process in which RS is mediated, filtered, integrated, and made accessible to an agent.  The interface presents a “slice” of RS, resulting in a specific subjective experience (e.g., qualia, selfhood). Through interfaces, agents can integrate with the world. Cultural artifacts and practices-—from ritual objects to literary texts—-are examples. They encode collective modes of accessing relational substrates, enabling computational hermeneutics to reconstruct historical subjectivities.
+  
 * **Relational substrate (RS)** is the fundamental, irreducible, relational, and radically transcendental ground of an agent's reality. The immediate actuality of experience refers to this relational substrate.[^1]
 
 *	**Subjective experience**, forming the "hard" part of the problem of consciousness, is like the desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, our subjective experience is an evolved or designed “user-friendly” way to interact with RS. 
