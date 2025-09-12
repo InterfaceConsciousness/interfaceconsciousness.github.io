@@ -11,7 +11,7 @@ redirect_from:
 
 Our lab **rethinks consciousness** as the phenomenological bridge enacted through an agent’s interface to the world. Our approach integrates modern AI techniques alongside philosophical reasoning and mathematical phenomenology to create a constellation of research projects that are _theoretically robust, empirically grounded, and computationally implementable_. 
 
-The study of consciousness should be **informed by science and technology**. Throughout our research projects, we aim to analyze, design, and optimize interfaces, akin to engineering materials in chemistry: just as specific molecular structures determine how an organism detects and responds to the chemical world, interfaces shape how an agent perceives and interacts with RS.
+The study of consciousness should be **informed by science and technology**. Throughout our research projects, we aim to analyze, design, and optimize interfaces, akin to engineering materials in chemistry: just as specific molecular structures determine how an organism detects and responds to the chemical world, interfaces shape how an agent perceives and interacts with its environment.
 
 We do not think of agents as “containers” of consciousness but as _constructors_ of interfaces for the engagement with reality. Subprojects provide concrete, testable implementations, simulations, and formal analyses, all informed by foundational philosophical commitments and designed for **interdisciplinary collaboration and impact**.
 
