@@ -9,9 +9,9 @@ author_profile: true
 <!-- ## Core commitments -->
 * **Consciousness exists in the relations around us**, not merely inside our heads. We conceive of it as a fundamental aspect of reality -- its relational substrate with which an agent interfaces. We reject any conflation of consciousness with the notion of a “ghost in the machine.”[^4]
 
-* **Interface consciousness** refers not to ‘consciousness as such’ but to the process by which reality is mediated, filtered, and integrated for agent-accessible experience. The interface presents a ‘slice’ of reality, encoded in specific subjective phenomena (e.g., qualia, selfhood). Through interfaces, agents integrate with the world. Cultural artifacts and practices—from ritual objects to literary texts—are crystallized collective interfaces, encoding shared modes of accessing relational substrates.
+* **Interface consciousness** refers not to ‘consciousness as such’ but to the process by which reality is mediated, filtered, and integrated for agent-accessible experience. The interface presents a ‘slice’ of reality, encoded in specific subjective phenomena (e.g., qualia, selfhood). Through interfaces, agents integrate with the world. Cultural artifacts and practices—from ritual objects to literary texts—are crystallized collective interfaces, encoding shared modes of access.
   
-* **_Q_-networks** are models of the relational and radically transcendental ground of an agent's reality. The immediate actuality of experience refers to this relational substrate.[^1]
+* **_Q_-networks** are models of the relational and radically transcendental ground of an agent's reality. The immediate actuality of subjective experience refers to this relational substrate.[^1] Q-networks are built by first embedding various objective data (such as phyiological signals or ANN-activations) into a mathematical space of possible experiences and then analyzed for thei phenomenological structure. 
 
 *	**Subjective experience**, forming the 'hard' part of the problem of consciousness, is like the desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, our subjective experience is an evolved or designed 'user-friendly' way to interact with the world. 
 
