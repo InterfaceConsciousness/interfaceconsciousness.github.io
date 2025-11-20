@@ -19,7 +19,7 @@ Translates data from brains or computers into a map of potential experiences ("_
 <div style="float: right; margin: -1em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/env_graph.png"
        alt="Q-Network"
-       style="width: 100%; clip-path: inset(50px 0px 0px 0px);">
+       style="width: 100%; clip-path: inset(100px 0px 0px 0px);">
 </div>
 
 **Type**: Theoretical (Phenomenology, Mathematics)
