@@ -18,20 +18,24 @@ We seek passionate, intellectually curious collaborators who are
 
 **Available Roles**[^1]
  
-`Engineer of Interface Consciousness`
-  * design SLP-tests to study LLMs and/or design novel AR/VR interfaces
+`Interface Engineer`
+  * develop SLP-tests to study AIs such as LLMs
+  * design novel AR/VR or physical interfaces
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
 
-`Mathematical Modeler of RS`
+`Mathematical Modeler`
   * build ontologies for agent-networks
+  * work on the digital QNet-library
   * requirements: knowledgeable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
 
 `Computational Phenomenologist`
-  * implement intentionality, time-consciousness, and self/world boundaries 
+  * implement intentionality, time-consciousness, and self/world boundaries
+  * relate 3rd-person data and 1st-person perspectives 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
       
 `Scholar of the Digital Humanities` 
-  * relate theoretical concepts ("interface consciousness", "relational substrate (RS)") to specific case studies from the Humanities (e.g., ethics, sociology of science, literature, or the history of religion)
+  * relate theoretical concepts to specific case studies from the Humanities (e.g., ethics, sociology of science, literature, or the history of religion)
+  * design artefacts or exhibitions to illustrate the interface consciousness approach
   * requirements: BA or above in the specific area of the case study, interest in science and/or digital humanities
 
 <!--
