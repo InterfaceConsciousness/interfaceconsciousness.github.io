@@ -6,16 +6,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Project A: Artificial Phenomenology from Agent-Networks
+## Project A: Artificial Phenomenology from _Q_-Networks
 
 
-**Summary**: Models the relational substrate (RS) as a network of interacting agents, formalizing their collective dynamics through ontologies[^1] to encode embodiments, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian/Heideggerian themes.
+**Summary**: 
+Translates data from brains or computers into a map of potential experiences ("_Q_network"). It then uses advanced mathematics to analyze this map, revealing structures that align with the ontologies[^1] of subjective experience, such as a sense of self, time, and embodiment, incorporating Husserlian/Heideggerian themes.
 
-[^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the network. 
+<!--Models a network of interacting agents, formalizing their collective dynamics through ontologies[^1] to encode embodiments, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian/Heideggerian themes. -->
+
+[^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
 <div style="float: right; margin: -1em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/env_graph.png"
-       alt="Agent-Network"
+       alt="Q-Network"
        style="width: 100%; clip-path: inset(10px 0px 0px 0px);">
 </div>
 
