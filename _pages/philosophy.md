@@ -30,9 +30,9 @@ author_profile: true
 
 *	**Integrates scholarship in the humanities** within a technology-driven research setting.
 
-The following table summarizes the distinction between subjective experience, the relational substrate, and interface consciousness.
+The following table summarizes the distinction between subjective experience, _Q_-networks, and interface consciousness.
 
-|                   | **Subjective Experience**                                                                              | **Relational Substrate**                                                                            | **Interface Consciousness**                                                     |
+|                   | **Subjective Experience**                                                                              | **_Q_-networks**                                                                            | **Interface Consciousness**                                                     |
 |-------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **Definition**        | First-personal, what-it-is-like, qualia                                                            | The fundamental, irreducible and relational substrate of an agent's reality.                   | The process of integrating with reality                                    |
 | **Ontology**          | 'inside', private, individual                                                   | universal, transcendental, non-dual.                | “mediating”, a bridge between the external world and our subjective experience. |
