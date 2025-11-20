@@ -75,7 +75,7 @@ Translates data from brains or computers into a map of potential experiences ("_
 <br>
 **Most relevant publications from the group**: [Artificial Consciouisness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z)
 
-**Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for the structure of their access to RS. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs projects A and B.
+**Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for their relational richness. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs project A.
 
 ## Project C: Computational Humanities
 
