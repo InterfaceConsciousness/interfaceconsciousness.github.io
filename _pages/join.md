@@ -16,7 +16,7 @@ We seek passionate, intellectually curious collaborators who are
 * independent scholars with interdisciplinary research interests
 * coders interested in open-source tools for consciousness research
 
-**Available Roles**[^1]
+**Available Roles**[^1] 
  
 `Interface Engineer`
   * develop SLP-tests to study AIs such as LLMs
@@ -34,9 +34,9 @@ We seek passionate, intellectually curious collaborators who are
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
       
 `Scholar of the Digital Humanities` 
-  * relate theoretical concepts to specific case studies from the Humanities (e.g., ethics, sociology of science, literature, or the history of religion)
+  * relate theoretical concepts to specific case studies from the humanities (e.g., ethics, sociology of science, literature, or the history of religion)
   * design artefacts or exhibitions to illustrate the interface consciousness approach
-  * requirements: BA or above in the specific area of the case study, interest in science and/or digital humanities
+  * passion for the relevant subfield of the humanities, interest in science and/or digital methods
 
 <!--
 `Physical Research Scientist`
@@ -67,6 +67,6 @@ We seek passionate, intellectually curious collaborators who are
 * Preferred role and/or project ideas
 * Optional: writing/code sample (e.g., philosophy essay, Python script, blog post)
 
-[^1]: If you did not find a suitable role for you, please be not afraid to contact us with a specific project in mind (e.g., "studying quantum-like structures of the interface"). However, we won't be able to accommodate unspecific proposals ("Hi Prof! Have you thought about _x_?")
+[^1]: The above roles are meant as examples. Tasks could also be split among multiple researchers (e.g., there might be one engineer working on VR interfaces, while another engineer works with biological substrates). If you did not find a suitable role for you, please do not be afraid to contact us with a specific project in mind (e.g., "studying quantum-like structures of the interface"). However, we won't be able to accommodate unspecific proposals ("Hi Prof! Have you thought about _x_?")
 
-**Deadlines**: rolling admissions. **Academic research visits and internships** (1-6 months) also availabe. Please [contact us](mailto:robert.prentner@amcs.science) to learn more.
+**Deadlines**: rolling admissions. **Academic research visits and internships** (1-6 months) also available. Please [contact us](mailto:robert.prentner@amcs.science) to learn more.
