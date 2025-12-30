@@ -30,7 +30,7 @@ Translates data from brains or computers into a map of potential experiences ("_
 *	_A2. Selves, Embodiment, and World Models_
 * _A3. Spacetime from Agent-Networks_ 
 
-**Most relevant publications of the group**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
+**Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
 **Why it matters?** Anchors our research in philosophical concepts, enabling translation between phenomenological descriptions, AI architectures, and philosophy. Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces.<!--, preparing to bridge metaphysics and computational implementation.-->
 
@@ -56,7 +56,7 @@ Translates data from brains or computers into a map of potential experiences ("_
 
 ## Project B: SLP-Tests and Expanding the Interface
 
-**Summary**: Transforms questions of artificial consciousness into operational tests (SLP-tests: subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
+**Summary**: Transforms questions of artificial consciousness into operational tests ([SLP-tests](https://youtu.be/hsnUr4H0v9U): subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
 
 <div style="float: left; margin: -0.5em 2.5em 1em 0.5em; width: 250px; text-align: center;">
   <img src="../images/projectB.png"
@@ -73,7 +73,7 @@ Translates data from brains or computers into a map of potential experiences ("_
 * _B3. Novel Interface Designs_  (experimental)
 
 <br>
-**Most relevant publications from the group**: [Artificial Consciouisness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z)
+**Most relevant publications from the lab**: [Artificial Consciouisness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z)
 
 **Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for their relational richness. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs project A.
 
@@ -91,7 +91,7 @@ Translates data from brains or computers into a map of potential experiences ("_
   </p>
 </div>
 
-**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, Technophilosophy)
+**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, [Technophilosophy](https://youtu.be/K9vfwA7qnaw))
 
 **Subprojects**:
 
@@ -99,6 +99,6 @@ Translates data from brains or computers into a map of potential experiences ("_
 * _C2. Humanities case studies_
 * _C3. Interdisciplinary collaborations and outreach_
 
-**Most relevant publications of the group**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), Daoist unity of science, [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
+**Most relevant publications from the lab**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), [Daoist unity of science](https://brill.com/view/journals/jccp/1/2/article-p166_3.xml), [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
 **Why it matters?** Provides philosophical clarity and conceptual integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between technology, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
