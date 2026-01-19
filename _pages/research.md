@@ -10,7 +10,7 @@ author_profile: true
 
 
 **Summary**: 
-Translates data from brains or computers into a map of potential experiences ("_Q_-networks"). Uses advanced mathematics to analyze this map, revealing structures that align with the ontologies[^1] of subjective experience, such as a sense of self, time, and embodiment, incorporating Husserlian/Heideggerian themes.
+Embeds data from brains or computers into maps of potential experiences ("_Q_-networks"). Uses advanced mathematics to analyze these maps, revealing structures that align with the ontologies[^1] of subjective experience, such as a sense of self, time, and embodiment, incorporating Husserlian/Heideggerian themes.
 
 <!--Models a network of interacting agents, formalizing their collective dynamics through ontologies[^1] to encode embodiments, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian/Heideggerian themes. -->
 
