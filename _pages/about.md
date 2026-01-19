@@ -9,7 +9,7 @@ redirect_from:
 
 ## Overview
 
-Our lab **rethinks consciousness** as the phenomenological bridge enacted through an agent’s interface to the world. Our approach integrates modern AI techniques with mathematical phenomenology and cognitive science to create a constellation of research projects that are _theoretically robust, empirically grounded, and computationally implementable_. 
+Our lab **rethinks consciousness** as the phenomenological bridge enacted through an agent’s interface to the world. Our approach integrates computational methods with mathematical phenomenology and cognitive science to create a constellation of research projects that are _theoretically robust, empirically grounded, and computationally implementable_. 
 
 The study of consciousness should be **informed by science and technology**. Throughout our research projects, we aim to analyze, design, and optimize interfaces, akin to engineering materials in chemistry: just as specific molecular structures determine how an organism detects and responds to the chemical world, interfaces shape how an agent perceives and interacts with its environment.
 
