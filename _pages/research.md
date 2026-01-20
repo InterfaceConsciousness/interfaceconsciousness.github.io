@@ -32,7 +32,7 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 
 **Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
-**Why it matters?** Anchors our research in philosophical concepts, enabling translation between AI architectures, phenomenological descriptions, and philosophy. Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces.<!--, preparing to bridge metaphysics and computational implementation.-->
+**Why it matters?** Anchors our research in philosophical concepts, enabling translation between AI architectures, phenomenological descriptions, and cognitive science. Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces.<!--, preparing to bridge metaphysics and computational implementation.-->
 
 
 <!--
@@ -101,4 +101,4 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 
 **Most relevant publications from the lab**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), [Daoist unity of science](https://brill.com/view/journals/jccp/1/2/article-p166_3.xml), [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
-**Why it matters?** Provides philosophical clarity and conceptual integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between technology, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
+**Why it matters?** Provides conceptual clarity and philosophical integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between technology, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
