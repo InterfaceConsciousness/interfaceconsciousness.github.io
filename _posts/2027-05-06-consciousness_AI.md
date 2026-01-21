@@ -1,6 +1,5 @@
 ---
 title: 'The Universe’s Greatest Unsolved Mystery (And Why AI Changes Everything)'
-date: 2027-05-06
 permalink: /posts/2027/05/blog-post-2/
 tags:
   - hard problem
