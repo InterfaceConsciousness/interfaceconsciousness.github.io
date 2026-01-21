@@ -28,7 +28,7 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 
 *	_A1. Philosophical and Mathematical Synthesis_
 *	_A2. Selves, Embodiment, and World Models_
-* _A3. Spacetime from Agent-Networks_ 
+* _A3. Spacetime for Action_ 
 
 **Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
