@@ -29,9 +29,9 @@ We seek passionate, intellectually curious collaborators who are
   * requirements: experience in Python/PyTorch/JAX/Unity3D, interest in philosophy of consciousness beneficial 
 
 `Mathematical Modeler`
-  * build ontologies for agent-networks
-  * work on the digital QNet-library
-  * requirements: knowledgeable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
+  * build ontologies for _Q_-networks
+  * work on the digital _Q_Net-library
+  * requirements: strong foundation in applied mathematics (category theory and/or network theory) or physics, interest in computer science
 
 `Empirical Interface Scientist`
  * apply the interface consciousness framework to life and human sciences
