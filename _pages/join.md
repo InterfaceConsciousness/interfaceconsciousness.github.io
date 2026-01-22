@@ -61,7 +61,7 @@ We seek passionate, intellectually curious collaborators who are
 **To apply** submit the following:
 
 * CV/resume (highlight relevant coursework or projects)
-* brief statement of interest (≤300 words)
+* brief statement of interest (≤300 words), including why you want to join
 * preferred role and/or project ideas
 * optional: writing/code sample (e.g., philosophy essay, Python script, blog post)
 
