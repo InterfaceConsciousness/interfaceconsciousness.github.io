@@ -62,7 +62,7 @@ We seek passionate, intellectually curious collaborators who are
 
 * CV/resume (highlight relevant coursework or projects)
 * brief statement of interest (≤300 words, including why you want to join)
-* preferred role and/or project ideas[^]
+* preferred role and/or project ideas[^1]
 * optional: writing/code sample (e.g., philosophy essay, Python script, blog post)
 
 [^1]: The above roles are meant as examples. Tasks could also be split among multiple researchers. If you did not find a suitable role for you, please do not be afraid to contact us with a specific project in mind (e.g., "I want to study quantum-like structures of the interface because..."). However, we won't be able to accommodate unspecific proposals ("Hi Prof! Have you thought about _x_?")
