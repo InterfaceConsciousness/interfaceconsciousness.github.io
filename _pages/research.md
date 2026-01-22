@@ -70,7 +70,7 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 
 * _B1. SLP-Tests: Implementation and Validation_
 * _B2. Subjective Grammar and Meaning in Language Models_
-* _B3. Novel Interface Designs_  (experimental)
+* _B3. Novel Interface Designs_ 
 
 <br>
 **Most relevant publications from the lab**: [Artificial Consciouisness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z)
