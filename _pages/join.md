@@ -18,6 +18,11 @@ We seek passionate, intellectually curious collaborators who are
 
 **Available Roles**[^1] 
  
+`Computational Phenomenologist`
+  * computationally implement intentionality, time-consciousness, and self/world boundaries
+  * relate 3rd-person data and 1st-person perspectives 
+  * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science
+
 `Interface Engineer`
   * develop SLP-tests to study AIs such as LLMs
   * design novel AR/VR or physical interfaces
@@ -28,23 +33,16 @@ We seek passionate, intellectually curious collaborators who are
   * work on the digital QNet-library
   * requirements: knowledgeable in applied mathematics (category theory and/or network theory) or background in physics, interest in computer science
 
-`Computational Phenomenologist`
-  * implement intentionality, time-consciousness, and self/world boundaries
-  * relate 3rd-person data and 1st-person perspectives 
-  * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science (this role particularly requires interaction with the other roles)
-      
-`Scholar of the Digital Humanities` 
+`Empirical Interface Scientist`
+ * apply the interface consciousness framework to life and human sciences
+ * design empirical protocols to study perception, embodiment, or subjectivity
+ * requirements: background in neuroscience, psychology, cognitive science, or experimental biology; familiarity with lab methods and interest in conceptual modeling
+   
+`Technohumanities Scholar` 
   * relate theoretical concepts to specific case studies from the humanities (e.g., ethics, sociology of science, literature, or the history of religion)
   * design artefacts or exhibitions to illustrate the interface consciousness approach
-  * passion for the relevant subfield of the humanities, interest in science and/or digital methods
-
-<!--
-`Physical Research Scientist`
- * applying the interface idea to empirical (physical) sciences
- * requirements: skilled in experimental physics/chemistry/biology, familiarity with the basics of lab work, and able to design new empirical protocols.
--->
-
-   
+  * requirements: passion for the relevant subfield of the humanities, interest in science and/or digital methods
+  
 `Outreach Specialist` (Volunteer/Project-Based)
   * helps build our community and disseminates research
   * manages social media/blog content 
