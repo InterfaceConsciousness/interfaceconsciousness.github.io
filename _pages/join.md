@@ -19,7 +19,7 @@ We seek passionate, intellectually curious collaborators who are
 **Available Roles**[^1] 
  
 `Computational Phenomenologist`
-  * computationally implement intentionality, time-consciousness, and self/world boundaries
+  * implement intentionality, time-consciousness, and self/world boundaries
   * relate 3rd-person data and 1st-person perspectives 
   * requirements: firm grasp of basic phenomenological concepts, working knowledge of computer science
 
@@ -52,18 +52,18 @@ We seek passionate, intellectually curious collaborators who are
 
 **What we offer**
 
-* _Mentorship_: direct collaboration with the PI and interdisciplinary scholars
-* _Skill development_: training in niche areas (e.g., category theory for consciousness science)
-* _Academic impact_: publish in philosophy, AI, and cognitive science venues
-* _Networking_ and _portfolio building_ opportunities
-* _Flexibility_: part-time and remote work, modular projects, and adjustable timelines
+* _mentorship_: direct collaboration with the PI and interdisciplinary scholars
+* _skill development_: training in niche areas (e.g., category theory for consciousness science)
+* _interdisciplinary impact_: publish in philosophy, AI, and cognitive science venues
+* _networking_ and _portfolio building_ opportunities
+* _flexibility_: part-time and remote work, modular projects, and adjustable timelines
 
 **To apply** submit the following:
 
-* CV/Resume (highlight relevant coursework or projects)
-* Brief statement of interest (≤300 words)
-* Preferred role and/or project ideas
-* Optional: writing/code sample (e.g., philosophy essay, Python script, blog post)
+* CV/resume (highlight relevant coursework or projects)
+* brief statement of interest (≤300 words)
+* preferred role and/or project ideas
+* optional: writing/code sample (e.g., philosophy essay, Python script, blog post)
 
 [^1]: The above roles are meant as examples. Tasks could also be split among multiple researchers (e.g., there might be one engineer working on VR interfaces, while another engineer works with biological substrates). If you did not find a suitable role for you, please do not be afraid to contact us with a specific project in mind (e.g., "I want to study quantum-like structures of the interface because..."). However, we won't be able to accommodate unspecific proposals ("Hi Prof! Have you thought about _x_?")
 
