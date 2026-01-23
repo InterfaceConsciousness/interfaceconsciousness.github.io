@@ -12,11 +12,9 @@ author_profile: true
 **Summary**: 
 Embeds data from brains or computers into maps of potential experiences (“Q-networks”). These interface maps are analyzed with advanced mathematics to reveal structures that correspond to ontologies[^1] of subjective experience, such as self, time, and embodiment, incorporating Husserlian/Heideggerian themes. The framework extends to life sciences, modeling biological interfaces.
 
-<!--Models a network of interacting agents, formalizing their collective dynamics through ontologies[^1] to encode embodiments, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian/Heideggerian themes. -->
-
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
-<div style="float: right; margin: -2em 0.25em 1em 1em; width: 300px; text-align: center;">
+<div style="float: right; margin: -5em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/QNetwork.png"
        alt="Q-Network"
        style="width: 100%; clip-path: inset(20px 0px 0px 0px);">
