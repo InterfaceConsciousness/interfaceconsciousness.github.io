@@ -50,7 +50,7 @@ author_profile: true
 
 * with C. M. Signorelli & I. Cea. [We need to explain subjective experience, but its explanation may not be mechanistic](https://doi.org/10.31234/osf.io/e6kdg_v3), *Neuroscience of Consciousness*, accepted.
   
-* Daoist Unity of Science, the Bifurcation of Nature, and Technology, in press.
+* [Daoist Unity of Science, the Bifurcation of Nature, and Technology](https://doi.org/10.1163/29502799-bja10010), *Journal of Contemporary Chinese Philosophy*, 1, 166-189.
 
 * [Book Review: Dual Aspect Monism and the Deep Structure of Meaning](https://doi.org/10.53765/20512201.29.11.232), *Journal of Consciousness Studies*, 29(11-12),2022.
 
