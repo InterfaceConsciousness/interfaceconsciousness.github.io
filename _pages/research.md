@@ -10,7 +10,7 @@ author_profile: true
 
 
 **Summary**: 
-Embeds data from brains or computers into maps of potential experiences (“Q-networks”). Use of advanced mathematics to study these interface maps and identify ontologies[^1] such as self, time, and embodiment, drawing on Husserlian/Heideggerian themes. Extends naturally to the life sciences, modeling biological interfaces.
+Embeds data from brains or computers into maps of potential experiences (“Q-networks”). Use advanced mathematics to study these interface maps and identify ontologies[^1] such as self, time, and embodiment, drawing on Husserlian/Heideggerian themes. Extends naturally to the life sciences, modeling biological interfaces.
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
@@ -34,7 +34,7 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 
 ## Project B: SLP-Tests for AI Consciousness
 
-**Summary**: Transforms questions of artificial consciousness into operational tests ([SLP-tests](https://youtu.be/hsnUr4H0v9U): subjective-linguistic, latent-emergent, phenomenological-structural). These benchmarks evaluate the richness, coherence, and integrative capacity of emergent interfaces, while also guiding the design of novel interface architectures.
+**Summary**: Transforms questions of artificial consciousness into operational tests ([SLP-tests](https://youtu.be/hsnUr4H0v9U): subjective-linguistic, latent-emergent, phenomenological-structural). Evaluates the richness, coherence, and integrative capacity of emergent interfaces, while also guiding the design of novel interface architectures.
 
 <div style="float: left; margin: -0.5em 2.5em 1em 0.5em; width: 250px; text-align: center;">
   <img src="../images/projectB.png"
@@ -78,4 +78,4 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 
 **Most relevant publications from the lab**: [Daoist Unity of Science](https://doi.org/10.1163/29502799-bja10010), [Epistemoverse](https://doi.org/10.48550/arXiv.2512.12201), FBT-book, [Science of Consciousness Beyond Neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
-**Why it matters?** Strengthens conceptual clarity and philosophical integration while ensuring that technical projects remain aligned with ethical and epistemological concerns. By incorporating intercultural perspectives, it broadens the scope of interface analysis beyond Western traditions, fostering dialogue across diverse cultural contexts. This project anchors the lab’s public-facing and interdisciplinary output, connecting technology, ethics, art, and global humanities into a coherent vision of the technohumanities.
+**Why it matters?** Strengthens conceptual clarity and philosophical integration while ensuring that technical projects remain aligned with ethical and epistemological concerns. Broadens the scope of interface analysis beyond Western traditions, fostering dialogue across diverse cultural contexts. Anchors the lab’s public-facing and interdisciplinary output, connecting technology, ethics, art, and global humanities into a coherent vision of the technohumanities.
