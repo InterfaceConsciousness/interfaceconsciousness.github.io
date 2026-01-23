@@ -19,7 +19,7 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 <div style="float: right; margin: -1em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/QNetwork.png"
        alt="Q-Network"
-       style="width: 100%; clip-path: inset(15px 0px 0px 0px);">
+       style="width: 100%; clip-path: inset(20px 0px 0px 0px);">
 </div>
 
 **Type**: Theoretical (Phenomenology, Mathematics)
