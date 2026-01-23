@@ -14,10 +14,10 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
-<div style="float: right; margin: -1.5em 0.25em 1em 1em; width: 300px; text-align: center;">
+<div style="float: right; margin: -1.25cmm 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/QNetwork.png"
        alt="Q-Network"
-       style="width: 100%; clip-path: inset(20px 0px 0px 0px);">
+       style="width: 100%; clip-path: inset(20px 0px 2px 0px);">
 </div>
 
 **Type**: Theoretical (Phenomenology, Mathematics)
