@@ -7,13 +7,13 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
+main:  
+  - title: "Research Projects" 
+    url: /research/
+
   - title: "Philosophy & Theory"
     url: /philosophy/
     
-  - title: "Research Projects" 
-    url: /research/
-  
   - title: "Publications"
     url: /publications/
 
