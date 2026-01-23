@@ -10,7 +10,7 @@ author_profile: true
 
 
 **Summary**: 
-Embeds data from brains or computers into maps of potential experiences ("_Q_-networks"). Uses advanced mathematics to analyze these maps, revealing structures that align with the ontologies[^1] of subjective experience, such as a sense of self, time, and embodiment, incorporating Husserlian/Heideggerian themes.
+Embeds data from brains or computers into maps of potential experiences (“Q-networks”). These interface maps are analyzed with advanced mathematics to reveal structures that correspond to ontologies[^1] of subjective experience, such as self, time, and embodiment, incorporating Husserlian/Heideggerian themes. The framework extends to life sciences, modeling biological interfaces.
 
 <!--Models a network of interacting agents, formalizing their collective dynamics through ontologies[^1] to encode embodiments, spacetime, and selfhood. Implements this agent-based RS model in AI systems, then deploys category theory to bridge it with phenomenological frameworks, incorporating Husserlian/Heideggerian themes. -->
 
@@ -27,36 +27,16 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 **Subprojects**:
 
 *	_A1. Philosophical and Mathematical Synthesis_
-*	_A2. Selves, Embodiment, and World Models_
+*	_A2. Q-networks for Life: Self, Time, Embodiment_
 * _A3. Spacetime for Action_ 
 
 **Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
-**Why it matters?** Anchors our research in philosophical concepts, enabling translation between AI architectures, phenomenological descriptions, and cognitive science. Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces.<!--, preparing to bridge metaphysics and computational implementation.-->
+**Why it matters?** Anchors our research in philosophical concepts while enabling translation between AI architectures, phenomenological descriptions, and human sciences. Provides formal platforms for simulating and testing the emergence and properties of interfaces.
 
+## Project B: SLP-Tests for AI Consciousness
 
-<!--
-## Project B: Interface Construction from Agent-Networks
-
-**Summary**: Simulate and mathematically model RS as agent-networks whose collective dynamics can be captured by data structures[^1] that resemble embodiments, spacetime, and selves. This informs the design of interfaces by which (artificial and natural) systems could interact with RS. 
-
-
-**Type**: Theory (Simulation, Network Theory)
-
-**Subprojects**:
-
-* *B1. Selves, Embodiment, and World Models*
-
-* *B2. Spacetime from Agent-Networks* 
-
-**Most relevant publications from the group**: [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
-
-**Why it matters?**: Provides concrete, formal platforms for simulating and testing the emergence and properties of interfaces, preparing to bridge metaphysics and computational implementation. Results feed into the other projects’ analyses and operationalization.
--->
-
-## Project B: SLP-Tests and Expanding the Interface
-
-**Summary**: Transforms questions of artificial consciousness into operational tests ([SLP-tests](https://youtu.be/hsnUr4H0v9U): subjective-linguistic, latent-emergent, phenomenological-structural) to evaluate the richness, coherence, and integrative capacity of (emergent) interfaces. Designs novel interfaces. 
+**Summary**: Transforms questions of artificial consciousness into operational tests ([SLP-tests](https://youtu.be/hsnUr4H0v9U): subjective-linguistic, latent-emergent, phenomenological-structural). These benchmarks evaluate the richness, coherence, and integrative capacity of emergent interfaces, while also guiding the design of novel interface architectures.
 
 <div style="float: left; margin: -0.5em 2.5em 1em 0.5em; width: 250px; text-align: center;">
   <img src="../images/projectB.png"
@@ -75,12 +55,11 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 <br>
 **Most relevant publications from the lab**: [Artificial Consciouisness as Interface Representation](https://doi.org/10.48550/arXiv.2508.04383), [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z)
 
-**Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for their relational richness. Extends our the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs project A.
+**Why it matters?** Operationalizes metaphysical and phenomenological criteria in an empirical framework, allowing AI systems to be benchmarked for relational richness. Extends the interface paradigm to semantic and inter-agent domains, offering new experimental artifacts. Iteratively informs Project A.
 
-## Project C: Computational Humanities
+## Project C: Technohumanities Research
 
-<!--Connects the computational framework pursued in projects A and B with a broader perspective on the humanities. Facilitates the interpretation, reflection, and critique of all technical models and results in a non-technical context. -->
-**Summary**:   Applies artificial phenomenology to model how interfaces mediate interpretation of cultural artifacts (texts, images, rituals). Develops digital tools to simulate historical subjectivities using SLP-test frameworks.
+**Summary**:   Explores how interfaces mediate cultural interpretation of texts, images, and rituals. Develops digital tools to simulate historical subjectivities and integrates intercultural perspectives to broaden the scope of interface analysis.
 
 <div style="float: right; margin: 0.5em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/metaphysics_of_machines_smaller.jpg"
@@ -91,7 +70,7 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
   </p>
 </div>
 
-**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Art, [Technophilosophy](https://youtu.be/K9vfwA7qnaw))
+**Type**: Interdisciplinary Bridging Projects (Ethics, Epistemology, Intercultual Studies, Art)
 
 **Subprojects**:
 
@@ -101,4 +80,4 @@ Embeds data from brains or computers into maps of potential experiences ("_Q_-ne
 
 **Most relevant publications from the lab**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), [Daoist unity of science](https://brill.com/view/journals/jccp/1/2/article-p166_3.xml), [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
-**Why it matters?** Provides conceptual clarity and philosophical integration; supports the iterative refinement of (sub-)project goals, and ensures alignment between technology, ethics, and metaphysical vision. Also forms the core of public-facing and interdisciplinary output. 
+**Why it matters?** Provides conceptual clarity and philosophical integration; supports iterative refinement of project goals; ensures alignment between technology, ethics, and intercultural perspectives. Forms the core of public-facing and interdisciplinary output.
