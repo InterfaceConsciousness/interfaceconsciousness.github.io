@@ -10,7 +10,7 @@ author_profile: true
 
 
 **Summary**: 
-Embeds data from brains or computers into maps of potential experiences (“Q-networks”). Use of advanced mathematics to study these interface maps and identify ontologies[^1], such as self, time, and embodiment, incorporating Husserlian/Heideggerian themes. Extends naturally to the life sciences, modeling biological interfaces.
+Embeds data from brains or computers into maps of potential experiences (“Q-networks”). Use of advanced mathematics to study these interface maps and identify ontologies[^1] such as self, time, and embodiment, drawing on Husserlian/Heideggerian themes. Extends naturally to the life sciences, modeling biological interfaces.
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
