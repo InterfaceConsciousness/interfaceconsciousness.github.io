@@ -16,7 +16,7 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
-<div style="float: right; margin: -1em 0.25em 1em 1em; width: 300px; text-align: center;">
+<div style="float: right; margin: -2em 0.25em 1em 1em; width: 300px; text-align: center;">
   <img src="../images/QNetwork.png"
        alt="Q-Network"
        style="width: 100%; clip-path: inset(20px 0px 0px 0px);">
@@ -78,6 +78,6 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 * _C2. Humanities case studies_
 * _C3. Interdisciplinary collaborations and outreach_
 
-**Most relevant publications from the lab**: Epistemoverse, FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), [Daoist unity of science](https://brill.com/view/journals/jccp/1/2/article-p166_3.xml), [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
+**Most relevant publications from the lab**: [Daoist unity of science](https://doi.org/10.1163/29502799-bja10010), [Epistemoverse](https://doi.org/10.48550/arXiv.2512.12201), FBT-book, [Science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), [Dr Goff, Tear Down This Wall!](https://philarchive.org/rec/PREDGT)
 
 **Why it matters?** Strengthens conceptual clarity and philosophical integration while ensuring that technical projects remain aligned with ethical and epistemological concerns. By incorporating intercultural perspectives, it broadens the scope of interface analysis beyond Western traditions, fostering dialogue across diverse cultural contexts. This project anchors the lab’s public-facing and interdisciplinary output, connecting technology, ethics, art, and global humanities into a coherent vision of the technohumanities.
