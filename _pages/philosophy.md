@@ -13,7 +13,7 @@ author_profile: true
   
 * **_Q_-networks** are models of the relational and radically transcendental ground of an agent's reality. _Q_-networks are built by embedding various objective data (such as physiological signals or ANN-activations) into a mathematical space of possible experiences, defining structured entities on these spaces, and then analyzing those for their phenomenological properties. 
 
-*	**Subjective experience**, forming the 'hard' part of the problem of consciousness, is like the desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, our subjective experience is an evolved or designed 'user-friendly' way to interact with the world. 
+*	**Subjective experience**, forming the 'hard' part of the problem of consciousness, is like the desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, the structure of our subjective experience is an evolved or designed 'user-friendly' way to interact with the world. 
 
 *	**Precursors in the philosophical literature** include Leibniz (“monads" as "living mirrors" of the universe), Kant ("noumenon", "aesthetic judgment"), Schopenhauer (space-time and causality as "_a priori_ forms of representation"), Husserl ("eidos", "intentionality"), and Whitehead (“processes”, “prehension”). Consciousness is not 'contained' in selves, but selves arise from consciousness.
 
