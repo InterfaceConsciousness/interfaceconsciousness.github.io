@@ -41,7 +41,7 @@ author_profile: true
 * with C. Prakash, C. Fields, D. D. Hoffman & M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020.
 
 * with C. Fields. [Using AI methods to evaluate a model for perception](https://doi.org/10.1515/opphil-2019-0034), *Open Philosophy*, 2: 503–524, 2019.
-* 
+  
 * with C. Fields, D. Hoffman & C. Prakash. [Eigenforms, interfaces and holographic encoding](http://constructivist.info/12/3/265), *Constructivist Foundations*, 12(3): 265–274, 2017. 
 
 
