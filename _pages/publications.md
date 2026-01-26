@@ -36,7 +36,7 @@ author_profile: true
 
 * with H. Atmanspacher. [Desiderata for a Viable Account of Psychophysical Correlations](https://www.mindmatter.de/resources/pdf/atmprewww.pdf), *Mind and Matter*, 20(1), 63-86, 2022.
 
-* with C. M. Signorelli, J. Szczotka. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), *Neuroscience of Consciousness*, 2021(2), 2021.
+* with C. M. Signorelli & J. Szczotka. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), *Neuroscience of Consciousness*, 2021(2), 2021.
 
 * with C. Prakash, C. Fields, D. D. Hoffman & M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020.
 
