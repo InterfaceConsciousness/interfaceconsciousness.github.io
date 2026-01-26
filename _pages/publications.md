@@ -40,9 +40,11 @@ author_profile: true
 
 * with C. Prakash, C. Fields, D. D. Hoffman & M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020.
 
-* with C. Fields, E. Dietrich & D. D. Hoffman. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition](https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020. 
-
 * with C. Fields. [Using AI methods to evaluate a model for perception](https://doi.org/10.1515/opphil-2019-0034), *Open Philosophy*, 2: 503–524, 2019.
+* 
+* with C. Fields, D. Hoffman & C. Prakash. [Eigenforms, interfaces and holographic encoding](http://constructivist.info/12/3/265), *Constructivist Foundations*, 12(3): 265–274, 2017. 
+
+
 
 ## Additional Publications
 
@@ -55,6 +57,8 @@ author_profile: true
 * [Book Review: Dual Aspect Monism and the Deep Structure of Meaning](https://doi.org/10.53765/20512201.29.11.232), *Journal of Consciousness Studies*, 29(11-12),2022.
 
 * [Dr Goff, Tear Down This Wall! The Interface Theory of Perception and the Science of Consciousness](https://philarchive.org/rec/PREDGT), *Journal of Consciousness Studies*, 28(9-10), 91-103, 2021.
+
+* with C. Fields, E. Dietrich & D. D. Hoffman. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition](https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020. 
   
 * [The natural philosophy of experiencing](https://doi.org/10.3390/philosophies3040035), *Philosophies*, 3(4): 35, 2018.  (reprinted in G. Dodig-Crnkovic and M. J. Schroeder (eds.), Contemporary Natural Philosophies – Part 1, Basel: MDPI, pp. 324-337, 2019)
 
@@ -64,10 +68,9 @@ author_profile: true
 
 * [Chemistry, context and the objects of thought](https://link.springer.com/article/10.1007/s10698-017-9273-8), *Foundations of Chemistry*, 19(1): 29-41, 2017. 
 
-* with C. Fields, D. Hoffman & C. Prakash. [Eigenforms, interfaces and holographic encoding](http://constructivist.info/12/3/265), *Constructivist Foundations*, 12(3): 265–274, 2017. 
-
-* with C. Fields, D. Hoffman & C. Prakash. [Authors’ Response: Boundaries, Encodings and Paradox: What Models Can Tell Us About Experience](http://constructivist.info/12/3/284), *Constructivist Foundations*, 12(3): 284-291, 2017.
-
+<!- 
+* with C. Fields, D. Hoffman & C. Prakash. [Authors’ Response: Boundaries, Encodings and Paradox: What Models Can Tell Us About Experience](http://constructivist.info/12/3/284), *Constructivist Foundations*, 12(3): 284-291, 2017. ->
+ 
 ## Preprints 
 
 * with C.M. Signorelli, I. Cea & L. Melloni, [The science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), v1 Feb 25, 2025.
