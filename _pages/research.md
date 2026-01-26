@@ -10,7 +10,7 @@ author_profile: true
 
 
 **Summary**: 
-Embeds data from brains or computers into maps of potential experiences (“Q-networks”). Use advanced mathematics to study these interface maps and identify ontologies[^1] such as self, time, and embodiment, drawing on Husserlian/Heideggerian themes. Extends naturally to the life sciences, modeling biological interfaces.
+Embeds data from brains or computers into maps of potential experiences (“Q-networks”). Use advanced mathematics to study these interface maps and identify ontologies[^1] such as self, time, and embodiment, drawing on Husserlian/Heideggerian themes. Extends naturally to the life sciences, modeling biological interfaces through evolution.
 
 [^1]: Ontologies are understood as formal patterns or organizational schemes that specify how an agent perceives and interacts with the world. 
 
@@ -26,7 +26,7 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 
 *	_A1. Philosophical and Mathematical Synthesis_
 *	_A2. Q-networks for Life: Self, Time, Embodiment_
-* _A3. Spacetime for Action_ 
+* _A3. Spacetime for Action and Evolution_ 
 
 **Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as Error-Correcting Code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
