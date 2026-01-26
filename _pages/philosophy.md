@@ -7,16 +7,13 @@ author_profile: true
 {% include base_path %}
 
 <!-- ## Core commitments -->
-* **Consciousness exists in the relations around us**, not merely inside our heads. We conceive of it as a fundamental aspect of reality -- its relational substrate with which an agent interfaces. We reject any conflation of consciousness with the notion of a “ghost in the machine.”[^4]
+* **Consciousness exists in the relations around us**, not merely inside our heads. We conceive of it as a fundamental aspect of reality -- its relational substrate[^1] with which an agent interfaces. We reject any conflation of consciousness with the notion of a “ghost in the machine.”[^4]
 
 * **Interface consciousness** refers not to ‘consciousness as such’ but to the process by which reality is mediated, filtered, and integrated for agent-accessible experience. The interface presents a ‘slice’ of reality, encoded in specific subjective phenomena (e.g., qualia, selfhood). Through interfaces, agents integrate with the world. Cultural artifacts and practices—from ritual objects to literary texts—are crystallized collective interfaces, encoding shared modes of access.
   
-* **_Q_-networks** are models of the relational and radically transcendental ground of an agent's reality. The immediate actuality of subjective experience refers to this relational substrate.[^1] _Q_-networks are built by embedding various objective data (such as physiological signals or ANN-activations) into a mathematical space of possible experiences, defining structured entities on these spaces, and then analyzing those for their phenomenological properties. 
+* **_Q_-networks** are models of the relational and radically transcendental ground of an agent's reality. _Q_-networks are built by embedding various objective data (such as physiological signals or ANN-activations) into a mathematical space of possible experiences, defining structured entities on these spaces, and then analyzing those for their phenomenological properties. 
 
 *	**Subjective experience**, forming the 'hard' part of the problem of consciousness, is like the desktop of a computer that gives us access to reality while hiding its underlying structure. Just as a computer’s desktop is but a user-friendly way of interacting with the deeper reality of the computer, our subjective experience is an evolved or designed 'user-friendly' way to interact with the world. 
-
-<!-- *	**AI consciousness is reframed**, not as a question of interiority or emergence, but as an exploration of interfaces to an agent’s reality. AI consciousness becomes “artificial interface consciousness.”
--->
 
 *	**Precursors in the philosophical literature** include Leibniz (“monads" as "living mirrors" of the universe), Kant ("noumenon", "aesthetic judgment"), Schopenhauer (space-time and causality as "_a priori_ forms of representation"), Husserl ("eidos", "intentionality"), and Whitehead (“processes”, “prehension”). Consciousness is not 'contained' in selves, but selves arise from consciousness.
 
@@ -24,7 +21,7 @@ author_profile: true
 
 * **Transcendental cosmology**: To fully understand how interface consciousness arises from interaction, we need to explore the _conditions of possibility_ of subjective experience and the spatio-temporal-causal structuring of the phenomenal world. This opens a 'cosmological' approach that moves beyond the confines of human-like subjectivity toward a more general account of how relational structures give rise to experiential forms, also informing scientific modes of knowledge.
 
-*	**Artificial phenomenology** is the study and creation (engineering) of interfaces that encode first-person perspectives in (natural or artificial) systems.[^3] Mathematization is essential for bridging first-person experience and computational system design (for example, using tools from topology and category theory). 
+*	**Artificial phenomenology** is the study and creation (engineering) of interfaces that integrate first-person perspectives within natural or artificial systems.[^3] Mathematization is essential for bridging first-person experience and computational system design (for example, using tools from topology and category theory). 
 
 *	**Our Goal**: develop a computational framework, formal models, and operational tests that clarify, engineer, and extend the ways in which agents—biological or artificial—could interface with the world.
 
