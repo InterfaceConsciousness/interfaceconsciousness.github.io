@@ -28,7 +28,7 @@ Embeds data from brains or computers into maps of potential experiences (“Q-ne
 *	_A2. Q-networks for Life: Self, Time, Embodiment_
 * _A3. Spacetime for Action_ 
 
-**Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as error-correcting code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
+**Most relevant publications from the lab**: [Mathematized Phenomenology](https://doi.org/10.1007/s11097-025-10060-z), [Category Theory in Consciousness Science](https://doi.org/10.1007/s11229-024-04718-5), [Fusions of Consciousness](https://doi.org/10.3390/e25010129), [Spacetime as Error-Correcting Code](http://constructivist.info/12/3/265),	[Perceptual Networks](https://arxiv.org/abs/2009.08101), [Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002)
 
 **Why it matters?** Anchors our research in philosophical concepts while enabling translation between AI architectures, phenomenological descriptions, and human sciences. Provides formal platforms for simulating and testing the emergence and properties of interfaces.
 
