@@ -20,7 +20,7 @@ Consciousness is not housed within agents but enacted through their interface wi
 Understanding (artificial) interface consciousness requires a research program that **bridges AI and philosophy**. Our work is structured around two mutually reinforcing pillars:
 
 ### A computational-constructive pillar
-We treat consciousness as **relational**: reality accessed through interfaces. This pillar focuses on the **design, implementation, and evaluation** of agents, mathematical models, and novel benchmarks. Using tools from computer science and recent advances in language and network technology, we build systems that simulate and test interface structures. These efforts generate empirical validation, theoretical challenges, and open up opportunities to explore new modes of experience.
+We treat consciousness as **relational**: accessing reality through an interface. This pillar focuses on the **design, implementation, and evaluation** of agents, mathematical models, and novel benchmarks. Using tools from computer science and recent advances in language and network technology, we build systems that simulate and test interface structures. These efforts generate empirical validation, theoretical challenges, and open up opportunities to explore new modes of experience.
 
 ### A phenomenological-conceptual pillar
 Drawing from phenomenology, mathematics (e.g., category theory, topology), and the philosophy of mind, we clarify the essential structures of **self, body, and world**. This pillar sets the conceptual and formal standards for what constitutes an interface, guarding against reductionism and oversimplification. It engages a broad humanities audience across ethics, cultural studies, and history, contributing to the emerging field of **technohumanities**.
