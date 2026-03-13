@@ -9,7 +9,7 @@ redirect_from:
 
 ## Overview
 
-We **rethink consciousness as phenomenological bridge**: subjective experience emerges through an agent’s interface with the world. Our lab integrates computational methods, mathematical phenomenology, and the human sciences to build a constellation of projects that are theoretically rigorous, empirically grounded, and computationally implementable.
+We **rethink consciousness as phenomenological bridge**: subjective experience is enacted through an agent’s interface with the world. Our lab integrates computational methods, mathematical phenomenology, and the human sciences to build a constellation of projects that are theoretically rigorous, empirically grounded, and computationally implementable.
 
 The study of consciousness should be **informed by science and technology**. Throughout our research projects, we aim to analyze, design, and optimize interfaces, akin to engineering materials in chemistry: just as specific molecular structures determine how an organism detects and responds to the chemical world, interfaces shape how an agent perceives and interacts with its environment.
 
